@@ -1,2 +1,6 @@
 engine_log.json
 system_logs.log
+venv/
+.venv/
+__pycache__/
+*.pyc
