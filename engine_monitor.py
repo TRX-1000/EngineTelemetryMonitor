@@ -4,7 +4,7 @@
 import sys
 from PyQt5.QtWidgets import (
     QApplication, QWidget, QVBoxLayout, QHBoxLayout, QLabel, QTableWidget,
-    QTableWidgetItem, QPushButton, QSpinBox, QMessageBox
+    QTableWidgetItem, QPushButton, QSpinBox, QMessageBox, QHeaderView
 )
 from PyQt5.QtCore import QTimer, Qt
 from PyQt5.QtGui import QColor, QFont
@@ -44,7 +44,6 @@ class EngineMonitorApp(QWidget):
 
         # UI layout
         main = QVBoxLayout()
-        hdr = QHBoxLayout()
         ctrls = QHBoxLayout()
 
         # Header
@@ -62,6 +61,36 @@ class EngineMonitorApp(QWidget):
         self.table = QTableWidget(0, 2)
         self.table.setHorizontalHeaderLabels(["Parameter", "Value"])
         self.table.horizontalHeader().setStretchLastSection(True)
+        self.table.setColumnWidth(0, 150)
+        self.table.horizontalHeader().setStyleSheet("""
+            QHeaderView::section {
+                background-color: #2c2c2c;
+                color: #ffffff;
+                font-size: 13px;
+                font-weight: bold;
+                padding: 6px;
+                border: none;
+                border-bottom: 2px solid #555555;
+                border-right: 1px solid #555555;
+            }
+        """)
+
+        self.table.setStyleSheet("""
+            QTableWidget {
+                background-color: #1e1e1e;
+                color: #ffffff;
+                gridline-color: #3a3a3a;
+                font-size: 12px;
+            }
+            QTableWidget::item {
+                padding: 4px;
+            }
+        """)
+        self.table.setColumnWidth(0, 150)
+        self.table.horizontalHeader().setSectionResizeMode(0, QHeaderView.Fixed)
+        self.table.horizontalHeader().setSectionResizeMode(1, QHeaderView.Stretch)
+        self.table.horizontalHeader().resizeSection(0, 150)
+
         main.addWidget(self.table)
 
         # Controls: prev/next, start/pause, interval
@@ -110,11 +139,13 @@ class EngineMonitorApp(QWidget):
     def prev_car(self):
         self.current_index = (self.current_index - 1) % len(self.car_keys)
         self.render_current_car_initial()
+        self.update_cycle()
         log_event("ACTION", "Switched to previous car.")
 
     def next_car(self):
         self.current_index = (self.current_index + 1) % len(self.car_keys)
         self.render_current_car_initial()
+        self.update_cycle()
         log_event("ACTION", "Switched to next car.")
 
     def start_monitoring(self):
@@ -182,6 +213,10 @@ class EngineMonitorApp(QWidget):
                         bg = QColor(255, 120, 120)
                     elif v > thr['temperature'] - 5:
                         bg = QColor(255, 220, 120)
+                elif param == "coolant_level":
+                    v = float(value)
+                    if v < thr['coolant_level']:
+                        bg = QColor(255, 120, 120)
                 elif param == "rpm":
                     v = float(value)
                     if v > thr['rpm']:
@@ -236,10 +271,3 @@ class EngineMonitorApp(QWidget):
                 event.ignore()
         else:
             event.accept()
-
-
-if __name__ == "__main__":
-    app = QApplication(sys.argv)
-    w = EngineMonitorApp()
-    w.show()
-    sys.exit(app.exec_())

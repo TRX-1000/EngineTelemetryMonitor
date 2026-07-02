@@ -1,3123 +1,1319 @@
 [
   {
-    "timestamp": "2025-10-21 08:19:35",
-    "car_number": "KA09EF9101",
-    "sensors": {
-      "temperature": 94.4,
-      "oil_pressure": 40.8,
-      "rpm": 3047,
-      "coolant_level": 55.6,
-      "battery_voltage": 13.79,
-      "fuel_efficiency": 7.2,
-      "vibration_level": 4.59,
-      "emission_level": 1.33,
-      "engine_load": 50.2,
-      "intake_pressure": 131.8,
-      "throttle_position": 55.3,
-      "air_fuel_ratio": 12.3
-    },
-    "faults": [
-      "Emissions 1.33 > 1.3"
-    ]
-  },
-  {
-    "timestamp": "2025-10-21 08:19:37",
-    "car_number": "KA09EF9101",
-    "sensors": {
-      "temperature": 102.2,
-      "oil_pressure": 48.8,
-      "rpm": 8283,
-      "coolant_level": 100.0,
-      "battery_voltage": 14.27,
-      "fuel_efficiency": 9.4,
-      "vibration_level": 4.27,
-      "emission_level": 0.93,
-      "engine_load": 54.8,
-      "intake_pressure": 203.7,
-      "throttle_position": 34.6,
-      "air_fuel_ratio": 14.95
-    },
-    "faults": []
-  },
-  {
-    "timestamp": "2025-10-21 08:19:39",
-    "car_number": "KA09EF9101",
-    "sensors": {
-      "temperature": 92.9,
-      "oil_pressure": 49.6,
-      "rpm": 1195,
-      "coolant_level": 54.2,
-      "battery_voltage": 12.19,
-      "fuel_efficiency": 9.8,
-      "vibration_level": 5.6,
-      "emission_level": 0.94,
-      "engine_load": 53.8,
-      "intake_pressure": 235.5,
-      "throttle_position": 50.8,
-      "air_fuel_ratio": 13.33
-    },
-    "faults": []
-  },
-  {
-    "timestamp": "2025-10-21 08:19:41",
-    "car_number": "KA09EF9101",
-    "sensors": {
-      "temperature": 105.8,
-      "oil_pressure": 29.8,
-      "rpm": 8733,
-      "coolant_level": 51.6,
-      "battery_voltage": 12.25,
-      "fuel_efficiency": 9.1,
-      "vibration_level": 3.08,
-      "emission_level": 1.49,
-      "engine_load": 49.4,
-      "intake_pressure": 131.3,
-      "throttle_position": 24.6,
-      "air_fuel_ratio": 13.49
-    },
-    "faults": [
-      "Emissions 1.49 > 1.3"
-    ]
-  },
-  {
-    "timestamp": "2025-10-21 08:19:43",
-    "car_number": "KA09EF9101",
-    "sensors": {
-      "temperature": 106.1,
-      "oil_pressure": 46.4,
-      "rpm": 5825,
-      "coolant_level": 31.3,
-      "battery_voltage": 12.13,
-      "fuel_efficiency": 6.5,
-      "vibration_level": 4.16,
-      "emission_level": 1.39,
-      "engine_load": 44.7,
-      "intake_pressure": 187.1,
-      "throttle_position": 1.6,
-      "air_fuel_ratio": 12.56
-    },
-    "faults": [
-      "Coolant 31.3% < 35%",
-      "Emissions 1.39 > 1.3"
-    ]
-  },
-  {
-    "timestamp": "2025-10-21 08:31:43",
+    "timestamp": "2026-07-02 16:07:14",
     "car_number": "KA01AB1234",
     "sensors": {
-      "temperature": 93.5,
-      "oil_pressure": 57.6,
-      "rpm": 5565,
-      "coolant_level": 60.8,
-      "battery_voltage": 14.53,
-      "fuel_efficiency": 12.8,
-      "vibration_level": 2.35,
-      "emission_level": 0.82,
-      "engine_load": 73.6,
-      "intake_pressure": 88.9,
-      "throttle_position": 59.6,
-      "air_fuel_ratio": 13.22
-    },
-    "faults": []
-  },
-  {
-    "timestamp": "2025-10-21 08:31:45",
-    "car_number": "KA01AB1234",
-    "sensors": {
-      "temperature": 104.2,
-      "oil_pressure": 41.4,
-      "rpm": 6879,
-      "coolant_level": 55.9,
-      "battery_voltage": 12.22,
-      "fuel_efficiency": 8.6,
-      "vibration_level": 1.29,
-      "emission_level": 1.76,
-      "engine_load": 23.8,
-      "intake_pressure": 134.5,
-      "throttle_position": 12.0,
-      "air_fuel_ratio": 11.55
+      "temperature": 95.0,
+      "oil_pressure": 48.4,
+      "rpm": 4286,
+      "coolant_level": 40.7,
+      "battery_voltage": 12.06,
+      "fuel_efficiency": 12.5,
+      "vibration_level": 4.43,
+      "emission_level": 0.83,
+      "engine_load": 61.7,
+      "intake_pressure": 252.0,
+      "throttle_position": 63.8,
+      "air_fuel_ratio": 14.82
     },
     "faults": [
-      "RPM 6879 > 6500",
-      "Emission 1.76 > 1.5",
-      "AFR 11.55 out of range (12.0-15.5)"
+      "Intake pressure 252.0 > 250"
     ]
   },
   {
-    "timestamp": "2025-10-21 08:31:47",
+    "timestamp": "2026-07-02 16:07:16",
     "car_number": "KA01AB1234",
     "sensors": {
       "temperature": 101.2,
-      "oil_pressure": 48.0,
-      "rpm": 3203,
-      "coolant_level": 40.1,
-      "battery_voltage": 12.88,
-      "fuel_efficiency": 9.1,
-      "vibration_level": 5.83,
-      "emission_level": 0.91,
-      "engine_load": 76.9,
-      "intake_pressure": 103.1,
-      "throttle_position": 52.5,
-      "air_fuel_ratio": 13.87
-    },
-    "faults": [
-      "Vibration 5.83 > 5.0"
-    ]
-  },
-  {
-    "timestamp": "2025-10-21 08:31:49",
-    "car_number": "KA05CD5678",
-    "sensors": {
-      "temperature": 110.0,
-      "oil_pressure": 28.6,
-      "rpm": 6143,
-      "coolant_level": 82.7,
-      "battery_voltage": 14.27,
-      "fuel_efficiency": 13.5,
-      "vibration_level": 6.03,
-      "emission_level": 1.15,
-      "engine_load": 38.2,
-      "intake_pressure": 195.5,
-      "throttle_position": 72.9,
-      "air_fuel_ratio": 11.6
-    },
-    "faults": [
-      "Vibration 6.03 > 5.5",
-      "AFR 11.6 out of range (11.8-15.2)"
-    ]
-  },
-  {
-    "timestamp": "2025-10-21 08:31:51",
-    "car_number": "KA05CD5678",
-    "sensors": {
-      "temperature": 86.6,
-      "oil_pressure": 32.8,
-      "rpm": 2896,
-      "coolant_level": 45.9,
-      "battery_voltage": 12.63,
-      "fuel_efficiency": 12.3,
-      "vibration_level": 4.27,
-      "emission_level": 1.34,
-      "engine_load": 78.2,
-      "intake_pressure": 227.8,
-      "throttle_position": 98.3,
-      "air_fuel_ratio": 12.14
-    },
-    "faults": [
-      "Throttle position 98.3% > 94%"
-    ]
-  },
-  {
-    "timestamp": "2025-10-21 08:31:53",
-    "car_number": "KA05CD5678",
-    "sensors": {
-      "temperature": 89.7,
-      "oil_pressure": 38.5,
-      "rpm": 3117,
-      "coolant_level": 29.1,
-      "battery_voltage": 12.41,
+      "oil_pressure": 46.6,
+      "rpm": 2356,
+      "coolant_level": 83.3,
+      "battery_voltage": 12.15,
       "fuel_efficiency": 11.0,
-      "vibration_level": 4.4,
-      "emission_level": 1.87,
-      "engine_load": 56.7,
-      "intake_pressure": 132.8,
-      "throttle_position": 89.5,
-      "air_fuel_ratio": 13.65
-    },
-    "faults": [
-      "Emission 1.87 > 1.6"
-    ]
-  },
-  {
-    "timestamp": "2025-10-21 08:31:55",
-    "car_number": "KA05CD5678",
-    "sensors": {
-      "temperature": 102.6,
-      "oil_pressure": 50.3,
-      "rpm": 2771,
-      "coolant_level": 63.1,
-      "battery_voltage": 13.96,
-      "fuel_efficiency": 13.4,
-      "vibration_level": 3.64,
-      "emission_level": 2.02,
-      "engine_load": 73.0,
-      "intake_pressure": 161.5,
-      "throttle_position": 77.7,
-      "air_fuel_ratio": 13.36
-    },
-    "faults": [
-      "Emission 2.02 > 1.6"
-    ]
-  },
-  {
-    "timestamp": "2025-10-21 08:31:57",
-    "car_number": "KA05CD5678",
-    "sensors": {
-      "temperature": 91.6,
-      "oil_pressure": 57.4,
-      "rpm": 5969,
-      "coolant_level": 52.8,
-      "battery_voltage": 14.18,
-      "fuel_efficiency": 7.9,
-      "vibration_level": 5.49,
-      "emission_level": 1.33,
-      "engine_load": 87.9,
-      "intake_pressure": 192.8,
-      "throttle_position": 31.0,
-      "air_fuel_ratio": 12.37
+      "vibration_level": 3.2,
+      "emission_level": 1.13,
+      "engine_load": 52.2,
+      "intake_pressure": 231.8,
+      "throttle_position": 66.1,
+      "air_fuel_ratio": 14.56
     },
     "faults": []
   },
   {
-    "timestamp": "2025-10-21 08:31:59",
-    "car_number": "KA05CD5678",
-    "sensors": {
-      "temperature": 86.2,
-      "oil_pressure": 18.2,
-      "rpm": 6724,
-      "coolant_level": 39.1,
-      "battery_voltage": 13.85,
-      "fuel_efficiency": 7.7,
-      "vibration_level": 5.12,
-      "emission_level": 1.75,
-      "engine_load": 74.0,
-      "intake_pressure": 144.8,
-      "throttle_position": 9.9,
-      "air_fuel_ratio": 14.14
-    },
-    "faults": [
-      "Oil pressure 18.2 PSI < 22 PSI",
-      "Emission 1.75 > 1.6"
-    ]
-  },
-  {
-    "timestamp": "2025-10-21 08:32:00",
-    "car_number": "KA05CD5678",
-    "sensors": {
-      "temperature": 96.7,
-      "oil_pressure": 31.5,
-      "rpm": 2812,
-      "coolant_level": 48.5,
-      "battery_voltage": 12.41,
-      "fuel_efficiency": 11.8,
-      "vibration_level": 3.56,
-      "emission_level": 1.41,
-      "engine_load": 60.6,
-      "intake_pressure": 168.4,
-      "throttle_position": 24.2,
-      "air_fuel_ratio": 13.47
-    },
-    "faults": []
-  },
-  {
-    "timestamp": "2025-10-21 08:32:01",
-    "car_number": "KA05CD5678",
-    "sensors": {
-      "temperature": 88.4,
-      "oil_pressure": 53.5,
-      "rpm": 6749,
-      "coolant_level": 96.2,
-      "battery_voltage": 14.31,
-      "fuel_efficiency": 13.4,
-      "vibration_level": 5.63,
-      "emission_level": 1.33,
-      "engine_load": 45.9,
-      "intake_pressure": 233.0,
-      "throttle_position": 0.8,
-      "air_fuel_ratio": 14.88
-    },
-    "faults": [
-      "Vibration 5.63 > 5.5"
-    ]
-  },
-  {
-    "timestamp": "2025-10-21 08:32:02",
-    "car_number": "KA05CD5678",
-    "sensors": {
-      "temperature": 95.7,
-      "oil_pressure": 25.7,
-      "rpm": 7011,
-      "coolant_level": 59.4,
-      "battery_voltage": 12.23,
-      "fuel_efficiency": 7.2,
-      "vibration_level": 6.09,
-      "emission_level": 1.1,
-      "engine_load": 45.5,
-      "intake_pressure": 130.3,
-      "throttle_position": 90.3,
-      "air_fuel_ratio": 12.63
-    },
-    "faults": [
-      "RPM 7011 > 7000",
-      "Vibration 6.09 > 5.5"
-    ]
-  },
-  {
-    "timestamp": "2025-10-21 08:32:03",
-    "car_number": "KA05CD5678",
-    "sensors": {
-      "temperature": 86.9,
-      "oil_pressure": 26.3,
-      "rpm": 3666,
-      "coolant_level": 77.8,
-      "battery_voltage": 14.29,
-      "fuel_efficiency": 8.6,
-      "vibration_level": 2.1,
-      "emission_level": 1.05,
-      "engine_load": 83.1,
-      "intake_pressure": 167.5,
-      "throttle_position": 94.9,
-      "air_fuel_ratio": 14.24
-    },
-    "faults": [
-      "Throttle position 94.9% > 94%"
-    ]
-  },
-  {
-    "timestamp": "2025-10-21 08:32:04",
-    "car_number": "KA05CD5678",
-    "sensors": {
-      "temperature": 89.8,
-      "oil_pressure": 47.5,
-      "rpm": 3732,
-      "coolant_level": 55.7,
-      "battery_voltage": 12.95,
-      "fuel_efficiency": 7.5,
-      "vibration_level": 1.97,
-      "emission_level": 2.0,
-      "engine_load": 84.2,
-      "intake_pressure": 167.0,
-      "throttle_position": 5.6,
-      "air_fuel_ratio": 13.5
-    },
-    "faults": [
-      "Emission 2.0 > 1.6"
-    ]
-  },
-  {
-    "timestamp": "2025-10-21 08:32:05",
-    "car_number": "KA05CD5678",
-    "sensors": {
-      "temperature": 109.4,
-      "oil_pressure": 39.8,
-      "rpm": 1137,
-      "coolant_level": 66.6,
-      "battery_voltage": 13.24,
-      "fuel_efficiency": 7.1,
-      "vibration_level": 2.03,
-      "emission_level": 1.58,
-      "engine_load": 49.9,
-      "intake_pressure": 101.4,
-      "throttle_position": 65.6,
-      "air_fuel_ratio": 12.01
-    },
-    "faults": []
-  },
-  {
-    "timestamp": "2025-10-21 08:32:06",
-    "car_number": "KA05CD5678",
-    "sensors": {
-      "temperature": 107.9,
-      "oil_pressure": 41.0,
-      "rpm": 1869,
-      "coolant_level": 78.6,
-      "battery_voltage": 13.4,
-      "fuel_efficiency": 12.1,
-      "vibration_level": 4.44,
-      "emission_level": 1.01,
-      "engine_load": 28.6,
-      "intake_pressure": 156.9,
-      "throttle_position": 81.5,
-      "air_fuel_ratio": 14.88
-    },
-    "faults": []
-  },
-  {
-    "timestamp": "2025-10-21 08:32:07",
-    "car_number": "KA05CD5678",
-    "sensors": {
-      "temperature": 100.4,
-      "oil_pressure": 33.0,
-      "rpm": 3086,
-      "coolant_level": 84.5,
-      "battery_voltage": 13.25,
-      "fuel_efficiency": 8.3,
-      "vibration_level": 4.91,
-      "emission_level": 2.12,
-      "engine_load": 34.2,
-      "intake_pressure": 120.2,
-      "throttle_position": 17.8,
-      "air_fuel_ratio": 11.64
-    },
-    "faults": [
-      "Emission 2.12 > 1.6",
-      "AFR 11.64 out of range (11.8-15.2)"
-    ]
-  },
-  {
-    "timestamp": "2025-10-21 08:32:08",
-    "car_number": "KA05CD5678",
-    "sensors": {
-      "temperature": 99.2,
-      "oil_pressure": 20.0,
-      "rpm": 4868,
-      "coolant_level": 76.0,
-      "battery_voltage": 14.71,
-      "fuel_efficiency": 9.8,
-      "vibration_level": 3.31,
-      "emission_level": 1.23,
-      "engine_load": 33.1,
-      "intake_pressure": 232.8,
-      "throttle_position": 69.0,
-      "air_fuel_ratio": 15.21
-    },
-    "faults": [
-      "Oil pressure 20.0 PSI < 22 PSI",
-      "AFR 15.21 out of range (11.8-15.2)"
-    ]
-  },
-  {
-    "timestamp": "2025-10-21 08:32:09",
-    "car_number": "KA05CD5678",
-    "sensors": {
-      "temperature": 89.1,
-      "oil_pressure": 35.9,
-      "rpm": 3363,
-      "coolant_level": 53.9,
-      "battery_voltage": 13.79,
-      "fuel_efficiency": 9.3,
-      "vibration_level": 4.05,
-      "emission_level": 0.93,
-      "engine_load": 71.7,
-      "intake_pressure": 141.5,
-      "throttle_position": 73.2,
-      "air_fuel_ratio": 14.64
-    },
-    "faults": []
-  },
-  {
-    "timestamp": "2025-10-21 08:32:10",
-    "car_number": "KA05CD5678",
-    "sensors": {
-      "temperature": 102.7,
-      "oil_pressure": 46.3,
-      "rpm": 2872,
-      "coolant_level": 49.2,
-      "battery_voltage": 14.64,
-      "fuel_efficiency": 13.7,
-      "vibration_level": 4.83,
-      "emission_level": 2.18,
-      "engine_load": 40.4,
-      "intake_pressure": 220.5,
-      "throttle_position": 83.9,
-      "air_fuel_ratio": 12.72
-    },
-    "faults": [
-      "Emission 2.18 > 1.6"
-    ]
-  },
-  {
-    "timestamp": "2025-10-21 08:32:11",
-    "car_number": "KA05CD5678",
-    "sensors": {
-      "temperature": 101.0,
-      "oil_pressure": 28.8,
-      "rpm": 6419,
-      "coolant_level": 72.5,
-      "battery_voltage": 13.74,
-      "fuel_efficiency": 7.6,
-      "vibration_level": 4.24,
-      "emission_level": 1.67,
-      "engine_load": 35.6,
-      "intake_pressure": 102.1,
-      "throttle_position": 76.4,
-      "air_fuel_ratio": 15.42
-    },
-    "faults": [
-      "Emission 1.67 > 1.6",
-      "AFR 15.42 out of range (11.8-15.2)"
-    ]
-  },
-  {
-    "timestamp": "2025-10-21 08:32:12",
-    "car_number": "KA05CD5678",
-    "sensors": {
-      "temperature": 92.5,
-      "oil_pressure": 27.4,
-      "rpm": 2075,
-      "coolant_level": 88.1,
-      "battery_voltage": 12.13,
-      "fuel_efficiency": 9.1,
-      "vibration_level": 2.82,
-      "emission_level": 1.42,
-      "engine_load": 58.3,
-      "intake_pressure": 122.3,
-      "throttle_position": 86.3,
-      "air_fuel_ratio": 11.51
-    },
-    "faults": [
-      "AFR 11.51 out of range (11.8-15.2)"
-    ]
-  },
-  {
-    "timestamp": "2025-10-21 08:32:13",
-    "car_number": "KA05CD5678",
-    "sensors": {
-      "temperature": 93.9,
-      "oil_pressure": 21.0,
-      "rpm": 1679,
-      "coolant_level": 81.1,
-      "battery_voltage": 12.2,
-      "fuel_efficiency": 12.7,
-      "vibration_level": 1.79,
-      "emission_level": 1.58,
-      "engine_load": 80.1,
-      "intake_pressure": 98.9,
-      "throttle_position": 87.3,
-      "air_fuel_ratio": 15.4
-    },
-    "faults": [
-      "Oil pressure 21.0 PSI < 22 PSI",
-      "AFR 15.4 out of range (11.8-15.2)"
-    ]
-  },
-  {
-    "timestamp": "2025-10-21 08:32:14",
-    "car_number": "KA05CD5678",
-    "sensors": {
-      "temperature": 94.5,
-      "oil_pressure": 33.7,
-      "rpm": 4735,
-      "coolant_level": 29.9,
-      "battery_voltage": 14.12,
-      "fuel_efficiency": 11.0,
-      "vibration_level": 4.38,
-      "emission_level": 1.71,
-      "engine_load": 67.1,
-      "intake_pressure": 136.9,
-      "throttle_position": 23.8,
-      "air_fuel_ratio": 13.29
-    },
-    "faults": [
-      "Emission 1.71 > 1.6"
-    ]
-  },
-  {
-    "timestamp": "2025-10-21 08:32:15",
-    "car_number": "KA05CD5678",
-    "sensors": {
-      "temperature": 91.8,
-      "oil_pressure": 44.6,
-      "rpm": 6947,
-      "coolant_level": 34.3,
-      "battery_voltage": 12.35,
-      "fuel_efficiency": 7.6,
-      "vibration_level": 5.59,
-      "emission_level": 1.83,
-      "engine_load": 57.0,
-      "intake_pressure": 222.0,
-      "throttle_position": 60.9,
-      "air_fuel_ratio": 11.93
-    },
-    "faults": [
-      "Vibration 5.59 > 5.5",
-      "Emission 1.83 > 1.6"
-    ]
-  },
-  {
-    "timestamp": "2025-10-21 08:32:16",
-    "car_number": "KA05CD5678",
-    "sensors": {
-      "temperature": 99.2,
-      "oil_pressure": 52.5,
-      "rpm": 4582,
-      "coolant_level": 66.1,
-      "battery_voltage": 13.07,
-      "fuel_efficiency": 12.6,
-      "vibration_level": 2.35,
-      "emission_level": 1.85,
-      "engine_load": 54.5,
-      "intake_pressure": 244.9,
-      "throttle_position": 25.0,
-      "air_fuel_ratio": 15.21
-    },
-    "faults": [
-      "Emission 1.85 > 1.6",
-      "Intake pressure 244.9 > 240",
-      "AFR 15.21 out of range (11.8-15.2)"
-    ]
-  },
-  {
-    "timestamp": "2025-10-21 08:32:17",
-    "car_number": "KA05CD5678",
-    "sensors": {
-      "temperature": 104.8,
-      "oil_pressure": 31.9,
-      "rpm": 4360,
-      "coolant_level": 99.5,
-      "battery_voltage": 13.16,
-      "fuel_efficiency": 8.6,
-      "vibration_level": 4.28,
-      "emission_level": 1.58,
-      "engine_load": 30.0,
-      "intake_pressure": 155.4,
-      "throttle_position": 58.2,
-      "air_fuel_ratio": 15.17
-    },
-    "faults": []
-  },
-  {
-    "timestamp": "2025-10-21 08:32:18",
-    "car_number": "KA05CD5678",
-    "sensors": {
-      "temperature": 93.2,
-      "oil_pressure": 47.2,
-      "rpm": 4619,
-      "coolant_level": 89.3,
-      "battery_voltage": 13.83,
-      "fuel_efficiency": 8.3,
-      "vibration_level": 5.69,
-      "emission_level": 0.98,
-      "engine_load": 63.0,
-      "intake_pressure": 170.2,
-      "throttle_position": 69.7,
-      "air_fuel_ratio": 14.24
-    },
-    "faults": [
-      "Vibration 5.69 > 5.5"
-    ]
-  },
-  {
-    "timestamp": "2025-10-21 08:32:19",
-    "car_number": "KA09EF9101",
-    "sensors": {
-      "temperature": 103.4,
-      "oil_pressure": 39.0,
-      "rpm": 7429,
-      "coolant_level": 78.9,
-      "battery_voltage": 14.76,
-      "fuel_efficiency": 6.6,
-      "vibration_level": 3.43,
-      "emission_level": 1.88,
-      "engine_load": 40.2,
-      "intake_pressure": 205.7,
-      "throttle_position": 0.9,
-      "air_fuel_ratio": 13.53
-    },
-    "faults": [
-      "Emission 1.88 > 1.3"
-    ]
-  },
-  {
-    "timestamp": "2025-10-21 08:32:20",
-    "car_number": "KA09EF9101",
-    "sensors": {
-      "temperature": 107.5,
-      "oil_pressure": 36.5,
-      "rpm": 8646,
-      "coolant_level": 32.6,
-      "battery_voltage": 14.21,
-      "fuel_efficiency": 9.5,
-      "vibration_level": 2.85,
-      "emission_level": 1.39,
-      "engine_load": 37.4,
-      "intake_pressure": 163.4,
-      "throttle_position": 25.4,
-      "air_fuel_ratio": 13.46
-    },
-    "faults": [
-      "Coolant level 32.6% < 35%",
-      "Emission 1.39 > 1.3"
-    ]
-  },
-  {
-    "timestamp": "2025-10-21 08:32:21",
-    "car_number": "KA09EF9101",
-    "sensors": {
-      "temperature": 96.3,
-      "oil_pressure": 48.1,
-      "rpm": 3108,
-      "coolant_level": 31.3,
-      "battery_voltage": 13.49,
-      "fuel_efficiency": 9.3,
-      "vibration_level": 3.54,
-      "emission_level": 1.33,
-      "engine_load": 68.2,
-      "intake_pressure": 176.8,
-      "throttle_position": 28.2,
-      "air_fuel_ratio": 14.43
-    },
-    "faults": [
-      "Coolant level 31.3% < 35%",
-      "Emission 1.33 > 1.3"
-    ]
-  },
-  {
-    "timestamp": "2025-10-21 08:32:22",
-    "car_number": "KA09EF9101",
-    "sensors": {
-      "temperature": 99.0,
-      "oil_pressure": 40.9,
-      "rpm": 1786,
-      "coolant_level": 79.5,
-      "battery_voltage": 14.26,
-      "fuel_efficiency": 9.0,
-      "vibration_level": 3.15,
-      "emission_level": 1.69,
-      "engine_load": 46.2,
-      "intake_pressure": 250.9,
-      "throttle_position": 45.8,
-      "air_fuel_ratio": 15.03
-    },
-    "faults": [
-      "Emission 1.69 > 1.3",
-      "Intake pressure 250.9 > 245",
-      "AFR 15.03 out of range (12.2-15.0)"
-    ]
-  },
-  {
-    "timestamp": "2025-10-21 08:32:23",
-    "car_number": "KA09EF9101",
-    "sensors": {
-      "temperature": 95.6,
-      "oil_pressure": 56.5,
-      "rpm": 1757,
-      "coolant_level": 41.5,
-      "battery_voltage": 12.43,
-      "fuel_efficiency": 7.9,
-      "vibration_level": 2.57,
-      "emission_level": 1.75,
-      "engine_load": 85.6,
-      "intake_pressure": 212.8,
-      "throttle_position": 71.4,
-      "air_fuel_ratio": 13.41
-    },
-    "faults": [
-      "Emission 1.75 > 1.3"
-    ]
-  },
-  {
-    "timestamp": "2025-10-21 08:32:24",
-    "car_number": "KA09EF9101",
-    "sensors": {
-      "temperature": 110.5,
-      "oil_pressure": 58.1,
-      "rpm": 2109,
-      "coolant_level": 79.8,
-      "battery_voltage": 12.84,
-      "fuel_efficiency": 8.4,
-      "vibration_level": 3.42,
-      "emission_level": 0.82,
-      "engine_load": 94.6,
-      "intake_pressure": 229.3,
-      "throttle_position": 79.7,
-      "air_fuel_ratio": 13.34
-    },
-    "faults": [
-      "Temperature 110.5\u00b0C > 108\u00b0C"
-    ]
-  },
-  {
-    "timestamp": "2025-10-21 08:32:25",
-    "car_number": "KA09EF9101",
-    "sensors": {
-      "temperature": 102.7,
-      "oil_pressure": 33.4,
-      "rpm": 9077,
-      "coolant_level": 71.1,
-      "battery_voltage": 13.4,
-      "fuel_efficiency": 6.2,
-      "vibration_level": 6.18,
-      "emission_level": 1.72,
-      "engine_load": 90.6,
-      "intake_pressure": 206.7,
-      "throttle_position": 20.5,
-      "air_fuel_ratio": 12.92
-    },
-    "faults": [
-      "RPM 9077 > 9000",
-      "Fuel efficiency 6.2 km/l < 6.5 km/l",
-      "Vibration 6.18 > 6.0",
-      "Emission 1.72 > 1.3"
-    ]
-  },
-  {
-    "timestamp": "2025-10-21 08:32:26",
-    "car_number": "KA09EF9101",
-    "sensors": {
-      "temperature": 104.8,
-      "oil_pressure": 58.4,
-      "rpm": 2926,
-      "coolant_level": 43.0,
-      "battery_voltage": 12.69,
-      "fuel_efficiency": 6.5,
-      "vibration_level": 4.31,
-      "emission_level": 1.65,
-      "engine_load": 54.1,
-      "intake_pressure": 158.2,
-      "throttle_position": 53.9,
-      "air_fuel_ratio": 15.08
-    },
-    "faults": [
-      "Emission 1.65 > 1.3",
-      "AFR 15.08 out of range (12.2-15.0)"
-    ]
-  },
-  {
-    "timestamp": "2025-10-21 08:32:27",
-    "car_number": "KA09EF9101",
-    "sensors": {
-      "temperature": 105.7,
-      "oil_pressure": 57.2,
-      "rpm": 3912,
-      "coolant_level": 46.0,
-      "battery_voltage": 12.64,
-      "fuel_efficiency": 7.6,
-      "vibration_level": 3.65,
-      "emission_level": 1.77,
-      "engine_load": 39.4,
-      "intake_pressure": 230.4,
-      "throttle_position": 33.4,
-      "air_fuel_ratio": 14.89
-    },
-    "faults": [
-      "Emission 1.77 > 1.3"
-    ]
-  },
-  {
-    "timestamp": "2025-10-21 08:32:28",
-    "car_number": "KA09EF9101",
-    "sensors": {
-      "temperature": 101.4,
-      "oil_pressure": 60.4,
-      "rpm": 1367,
-      "coolant_level": 69.4,
-      "battery_voltage": 14.92,
-      "fuel_efficiency": 8.1,
-      "vibration_level": 2.84,
-      "emission_level": 1.44,
-      "engine_load": 85.1,
-      "intake_pressure": 244.1,
-      "throttle_position": 17.1,
-      "air_fuel_ratio": 12.23
-    },
-    "faults": [
-      "Battery voltage 14.92V out of range (11.9-14.9V)",
-      "Emission 1.44 > 1.3"
-    ]
-  },
-  {
-    "timestamp": "2025-10-21 08:32:29",
-    "car_number": "KA03GH4567",
-    "sensors": {
-      "temperature": 93.9,
-      "oil_pressure": 44.0,
-      "rpm": 3087,
-      "coolant_level": 41.4,
-      "battery_voltage": 13.48,
-      "fuel_efficiency": 7.6,
-      "vibration_level": 4.85,
-      "emission_level": 1.72,
-      "engine_load": 80.6,
-      "intake_pressure": 238.9,
-      "throttle_position": 61.0,
-      "air_fuel_ratio": 12.64
-    },
-    "faults": [
-      "Emission 1.72 > 1.7"
-    ]
-  },
-  {
-    "timestamp": "2025-10-21 08:32:30",
-    "car_number": "KA03GH4567",
-    "sensors": {
-      "temperature": 98.0,
-      "oil_pressure": 39.7,
-      "rpm": 3991,
-      "coolant_level": 68.4,
-      "battery_voltage": 13.35,
-      "fuel_efficiency": 8.7,
-      "vibration_level": 5.5,
-      "emission_level": 1.63,
-      "engine_load": 94.4,
-      "intake_pressure": 176.9,
-      "throttle_position": 1.8,
-      "air_fuel_ratio": 14.4
-    },
-    "faults": [
-      "Engine load 94.4% > 92%"
-    ]
-  },
-  {
-    "timestamp": "2025-10-21 08:32:31",
-    "car_number": "KA03GH4567",
-    "sensors": {
-      "temperature": 88.5,
-      "oil_pressure": 22.4,
-      "rpm": 5760,
-      "coolant_level": 86.9,
-      "battery_voltage": 12.55,
-      "fuel_efficiency": 8.7,
-      "vibration_level": 4.43,
-      "emission_level": 1.96,
-      "engine_load": 69.4,
-      "intake_pressure": 192.0,
-      "throttle_position": 34.3,
-      "air_fuel_ratio": 15.21
-    },
-    "faults": [
-      "Oil pressure 22.4 PSI < 30 PSI",
-      "Emission 1.96 > 1.7"
-    ]
-  },
-  {
-    "timestamp": "2025-10-21 19:04:26",
-    "car_number": "KA01AB1234",
-    "sensors": {
-      "temperature": 100.1,
-      "oil_pressure": 37.7,
-      "rpm": 3480,
-      "coolant_level": 81.2,
-      "battery_voltage": 14.35,
-      "fuel_efficiency": 10.8,
-      "vibration_level": 5.44,
-      "emission_level": 1.94,
-      "engine_load": 96.3,
-      "intake_pressure": 222.7,
-      "throttle_position": 1.2,
-      "air_fuel_ratio": 11.63
-    },
-    "faults": [
-      "Vibration 5.44 > 5.0",
-      "Emission 1.94 > 1.5",
-      "Engine load 96.3% > 90%",
-      "AFR 11.63 out of range (12.0-15.5)"
-    ]
-  },
-  {
-    "timestamp": "2025-10-21 19:04:29",
-    "car_number": "KA01AB1234",
-    "sensors": {
-      "temperature": 89.2,
-      "oil_pressure": 52.8,
-      "rpm": 1691,
-      "coolant_level": 34.0,
-      "battery_voltage": 13.07,
-      "fuel_efficiency": 6.3,
-      "vibration_level": 1.3,
-      "emission_level": 1.7,
-      "engine_load": 68.3,
-      "intake_pressure": 188.0,
-      "throttle_position": 39.3,
-      "air_fuel_ratio": 13.2
-    },
-    "faults": [
-      "Fuel efficiency 6.3 km/l < 8.0 km/l",
-      "Emission 1.7 > 1.5"
-    ]
-  },
-  {
-    "timestamp": "2025-10-21 19:04:30",
-    "car_number": "KA01AB1234",
-    "sensors": {
-      "temperature": 88.9,
-      "oil_pressure": 20.1,
-      "rpm": 2885,
-      "coolant_level": 32.1,
-      "battery_voltage": 14.23,
-      "fuel_efficiency": 12.5,
-      "vibration_level": 3.92,
-      "emission_level": 1.85,
-      "engine_load": 55.5,
-      "intake_pressure": 224.4,
-      "throttle_position": 1.9,
-      "air_fuel_ratio": 13.89
-    },
-    "faults": [
-      "Oil pressure 20.1 PSI < 25 PSI",
-      "Emission 1.85 > 1.5"
-    ]
-  },
-  {
-    "timestamp": "2025-10-21 19:04:31",
+    "timestamp": "2026-07-02 16:07:18",
     "car_number": "KA01AB1234",
     "sensors": {
       "temperature": 88.3,
-      "oil_pressure": 41.2,
-      "rpm": 4483,
-      "coolant_level": 78.9,
-      "battery_voltage": 14.78,
-      "fuel_efficiency": 10.1,
-      "vibration_level": 4.3,
-      "emission_level": 1.16,
-      "engine_load": 52.3,
-      "intake_pressure": 177.8,
-      "throttle_position": 90.5,
-      "air_fuel_ratio": 15.11
-    },
-    "faults": []
-  },
-  {
-    "timestamp": "2025-10-21 19:04:32",
-    "car_number": "KA01AB1234",
-    "sensors": {
-      "temperature": 104.3,
-      "oil_pressure": 25.4,
-      "rpm": 4227,
-      "coolant_level": 84.6,
-      "battery_voltage": 12.24,
-      "fuel_efficiency": 10.4,
-      "vibration_level": 3.21,
-      "emission_level": 1.72,
-      "engine_load": 48.1,
-      "intake_pressure": 171.0,
-      "throttle_position": 44.5,
-      "air_fuel_ratio": 14.6
-    },
-    "faults": [
-      "Emission 1.72 > 1.5"
-    ]
-  },
-  {
-    "timestamp": "2025-10-21 19:04:33",
-    "car_number": "KA01AB1234",
-    "sensors": {
-      "temperature": 91.6,
-      "oil_pressure": 27.8,
-      "rpm": 2167,
-      "coolant_level": 65.4,
-      "battery_voltage": 14.75,
-      "fuel_efficiency": 14.5,
-      "vibration_level": 4.79,
-      "emission_level": 1.42,
-      "engine_load": 51.0,
-      "intake_pressure": 247.7,
-      "throttle_position": 10.7,
-      "air_fuel_ratio": 14.17
-    },
-    "faults": []
-  },
-  {
-    "timestamp": "2025-10-21 19:04:34",
-    "car_number": "KA01AB1234",
-    "sensors": {
-      "temperature": 102.9,
       "oil_pressure": 27.2,
-      "rpm": 2262,
-      "coolant_level": 97.5,
-      "battery_voltage": 12.89,
-      "fuel_efficiency": 6.3,
-      "vibration_level": 3.5,
-      "emission_level": 1.1,
-      "engine_load": 53.0,
-      "intake_pressure": 108.8,
-      "throttle_position": 43.8,
-      "air_fuel_ratio": 15.58
-    },
-    "faults": [
-      "Fuel efficiency 6.3 km/l < 8.0 km/l",
-      "AFR 15.58 out of range (12.0-15.5)"
-    ]
-  },
-  {
-    "timestamp": "2025-10-21 19:04:35",
-    "car_number": "KA01AB1234",
-    "sensors": {
-      "temperature": 102.6,
-      "oil_pressure": 42.3,
-      "rpm": 2883,
-      "coolant_level": 53.5,
-      "battery_voltage": 14.25,
-      "fuel_efficiency": 11.7,
-      "vibration_level": 1.27,
-      "emission_level": 1.86,
-      "engine_load": 73.1,
-      "intake_pressure": 95.7,
-      "throttle_position": 69.8,
-      "air_fuel_ratio": 13.81
-    },
-    "faults": [
-      "Emission 1.86 > 1.5"
-    ]
-  },
-  {
-    "timestamp": "2025-10-21 19:04:36",
-    "car_number": "KA01AB1234",
-    "sensors": {
-      "temperature": 86.8,
-      "oil_pressure": 37.8,
-      "rpm": 6957,
-      "coolant_level": 32.6,
-      "battery_voltage": 12.25,
-      "fuel_efficiency": 12.3,
-      "vibration_level": 2.38,
-      "emission_level": 1.69,
-      "engine_load": 82.8,
-      "intake_pressure": 155.8,
-      "throttle_position": 5.1,
-      "air_fuel_ratio": 13.27
-    },
-    "faults": [
-      "RPM 6957 > 6500",
-      "Emission 1.69 > 1.5"
-    ]
-  },
-  {
-    "timestamp": "2025-10-21 19:04:37",
-    "car_number": "KA01AB1234",
-    "sensors": {
-      "temperature": 91.2,
-      "oil_pressure": 31.7,
-      "rpm": 5167,
-      "coolant_level": 58.2,
-      "battery_voltage": 12.78,
-      "fuel_efficiency": 11.6,
-      "vibration_level": 3.44,
-      "emission_level": 1.92,
-      "engine_load": 96.6,
-      "intake_pressure": 197.1,
-      "throttle_position": 76.2,
-      "air_fuel_ratio": 14.49
-    },
-    "faults": [
-      "Emission 1.92 > 1.5",
-      "Engine load 96.6% > 90%"
-    ]
-  },
-  {
-    "timestamp": "2025-10-21 19:04:38",
-    "car_number": "KA01AB1234",
-    "sensors": {
-      "temperature": 92.7,
-      "oil_pressure": 28.1,
-      "rpm": 2183,
-      "coolant_level": 83.4,
-      "battery_voltage": 12.61,
-      "fuel_efficiency": 10.3,
-      "vibration_level": 1.61,
-      "emission_level": 1.5,
-      "engine_load": 35.7,
-      "intake_pressure": 81.5,
-      "throttle_position": 18.2,
-      "air_fuel_ratio": 14.81
-    },
-    "faults": []
-  },
-  {
-    "timestamp": "2025-10-21 19:04:39",
-    "car_number": "KA01AB1234",
-    "sensors": {
-      "temperature": 96.6,
-      "oil_pressure": 28.9,
-      "rpm": 5704,
-      "coolant_level": 60.9,
-      "battery_voltage": 13.63,
-      "fuel_efficiency": 13.9,
-      "vibration_level": 1.65,
-      "emission_level": 1.12,
-      "engine_load": 20.3,
-      "intake_pressure": 229.3,
-      "throttle_position": 75.9,
-      "air_fuel_ratio": 11.73
-    },
-    "faults": [
-      "AFR 11.73 out of range (12.0-15.5)"
-    ]
-  },
-  {
-    "timestamp": "2025-10-21 19:41:05",
-    "car_number": "KA01AB1234",
-    "sensors": {
-      "temperature": 94.0,
-      "oil_pressure": 50.5,
-      "rpm": 4647,
-      "coolant_level": 64.5,
-      "battery_voltage": 12.7,
-      "fuel_efficiency": 14.49,
-      "vibration_level": 2.63,
-      "emission_level": 1.85,
-      "engine_load": 80.3,
-      "intake_pressure": 87.8,
-      "throttle_position": 35.1,
-      "air_fuel_ratio": 12.1
-    },
-    "faults": [
-      "vibration_level 2.63 < 5.0",
-      "engine_load 80.3 < 90",
-      "intake_pressure 87.8 < 250",
-      "throttle_position 35.1 < 95"
-    ]
-  },
-  {
-    "timestamp": "2025-10-21 19:41:07",
-    "car_number": "KA01AB1234",
-    "sensors": {
-      "temperature": 94.5,
-      "oil_pressure": 58.6,
-      "rpm": 6574,
-      "coolant_level": 73.5,
-      "battery_voltage": 12.75,
-      "fuel_efficiency": 12.38,
-      "vibration_level": 1.5,
-      "emission_level": 1.51,
-      "engine_load": 87.1,
-      "intake_pressure": 225.8,
-      "throttle_position": 1.1,
-      "air_fuel_ratio": 12.2
-    },
-    "faults": [
-      "RPM 6574 > 6500",
-      "vibration_level 1.5 < 5.0",
-      "engine_load 87.1 < 90",
-      "intake_pressure 225.8 < 250",
-      "throttle_position 1.1 < 95"
-    ]
-  },
-  {
-    "timestamp": "2025-10-21 19:41:09",
-    "car_number": "KA01AB1234",
-    "sensors": {
-      "temperature": 101.0,
-      "oil_pressure": 47.1,
-      "rpm": 6499,
-      "coolant_level": 95.7,
-      "battery_voltage": 12.8,
-      "fuel_efficiency": 8.25,
-      "vibration_level": 3.83,
+      "rpm": 3170,
+      "coolant_level": 71.8,
+      "battery_voltage": 12.09,
+      "fuel_efficiency": 7.0,
+      "vibration_level": 1.87,
       "emission_level": 1.87,
-      "engine_load": 78.4,
-      "intake_pressure": 169.8,
-      "throttle_position": 15.7,
-      "air_fuel_ratio": 14.7
-    },
-    "faults": [
-      "vibration_level 3.83 < 5.0",
-      "engine_load 78.4 < 90",
-      "intake_pressure 169.8 < 250",
-      "throttle_position 15.7 < 95"
-    ]
-  },
-  {
-    "timestamp": "2025-10-21 19:41:10",
-    "car_number": "KA01AB1234",
-    "sensors": {
-      "temperature": 99.9,
-      "oil_pressure": 23.0,
-      "rpm": 1246,
-      "coolant_level": 77.1,
-      "battery_voltage": 14.78,
-      "fuel_efficiency": 13.6,
-      "vibration_level": 4.92,
-      "emission_level": 1.2,
-      "engine_load": 38.5,
-      "intake_pressure": 145.4,
-      "throttle_position": 62.0,
-      "air_fuel_ratio": 13.7
-    },
-    "faults": [
-      "Oil 23.0 PSI < 25 PSI",
-      "vibration_level 4.92 < 5.0",
-      "emission_level 1.2 < 1.5",
-      "engine_load 38.5 < 90",
-      "intake_pressure 145.4 < 250",
-      "throttle_position 62.0 < 95"
-    ]
-  },
-  {
-    "timestamp": "2025-10-21 19:41:11",
-    "car_number": "KA01AB1234",
-    "sensors": {
-      "temperature": 98.3,
-      "oil_pressure": 56.6,
-      "rpm": 3291,
-      "coolant_level": 96.0,
-      "battery_voltage": 12.41,
-      "fuel_efficiency": 8.17,
-      "vibration_level": 3.85,
-      "emission_level": 1.9,
-      "engine_load": 96.5,
-      "intake_pressure": 146.4,
-      "throttle_position": 33.5,
-      "air_fuel_ratio": 14.2
-    },
-    "faults": [
-      "vibration_level 3.85 < 5.0",
-      "intake_pressure 146.4 < 250",
-      "throttle_position 33.5 < 95"
-    ]
-  },
-  {
-    "timestamp": "2025-10-21 22:05:53",
-    "car_number": "KA01AB1234",
-    "sensors": {
-      "temperature": 100.6,
-      "oil_pressure": 53.2,
-      "rpm": 3262,
-      "coolant_level": 75.3,
-      "battery_voltage": 14.38,
-      "fuel_efficiency": 7.0,
-      "vibration_level": 5.05,
-      "emission_level": 1.53,
-      "engine_load": 46.8,
-      "intake_pressure": 237.7,
-      "throttle_position": 62.5,
-      "air_fuel_ratio": 15.71
-    },
-    "faults": [
-      "Fuel efficiency 7.0 km/l < 8.0 km/l",
-      "Vibration 5.05 > 5.0",
-      "Emission 1.53 > 1.5",
-      "AFR 15.71 out of range (12.0-15.5)"
-    ]
-  },
-  {
-    "timestamp": "2025-10-21 22:05:54",
-    "car_number": "KA01AB1234",
-    "sensors": {
-      "temperature": 90.6,
-      "oil_pressure": 43.2,
-      "rpm": 6592,
-      "coolant_level": 30.2,
-      "battery_voltage": 13.03,
-      "fuel_efficiency": 7.0,
-      "vibration_level": 3.92,
-      "emission_level": 1.24,
-      "engine_load": 26.1,
-      "intake_pressure": 224.1,
-      "throttle_position": 88.0,
-      "air_fuel_ratio": 12.93
-    },
-    "faults": [
-      "RPM 6592 > 6500",
-      "Fuel efficiency 7.0 km/l < 8.0 km/l"
-    ]
-  },
-  {
-    "timestamp": "2025-10-21 22:05:55",
-    "car_number": "KA01AB1234",
-    "sensors": {
-      "temperature": 104.6,
-      "oil_pressure": 52.8,
-      "rpm": 5573,
-      "coolant_level": 49.1,
-      "battery_voltage": 13.43,
-      "fuel_efficiency": 6.6,
-      "vibration_level": 2.36,
-      "emission_level": 1.51,
-      "engine_load": 80.3,
-      "intake_pressure": 207.0,
-      "throttle_position": 42.4,
-      "air_fuel_ratio": 14.28
-    },
-    "faults": [
-      "Fuel efficiency 6.6 km/l < 8.0 km/l",
-      "Emission 1.51 > 1.5"
-    ]
-  },
-  {
-    "timestamp": "2025-10-21 22:05:56",
-    "car_number": "KA01AB1234",
-    "sensors": {
-      "temperature": 90.2,
-      "oil_pressure": 34.9,
-      "rpm": 3784,
-      "coolant_level": 88.3,
-      "battery_voltage": 12.04,
-      "fuel_efficiency": 12.5,
-      "vibration_level": 5.65,
-      "emission_level": 1.46,
-      "engine_load": 52.6,
-      "intake_pressure": 199.9,
-      "throttle_position": 34.3,
-      "air_fuel_ratio": 15.76
-    },
-    "faults": [
-      "Vibration 5.65 > 5.0",
-      "AFR 15.76 out of range (12.0-15.5)"
-    ]
-  },
-  {
-    "timestamp": "2025-10-21 22:05:57",
-    "car_number": "KA01AB1234",
-    "sensors": {
-      "temperature": 101.2,
-      "oil_pressure": 47.6,
-      "rpm": 1482,
-      "coolant_level": 57.5,
-      "battery_voltage": 12.62,
-      "fuel_efficiency": 10.2,
-      "vibration_level": 1.51,
-      "emission_level": 1.06,
-      "engine_load": 74.2,
-      "intake_pressure": 194.9,
-      "throttle_position": 7.9,
-      "air_fuel_ratio": 11.69
-    },
-    "faults": [
-      "AFR 11.69 out of range (12.0-15.5)"
-    ]
-  },
-  {
-    "timestamp": "2025-10-21 22:05:58",
-    "car_number": "KA01AB1234",
-    "sensors": {
-      "temperature": 102.3,
-      "oil_pressure": 52.4,
-      "rpm": 2654,
-      "coolant_level": 89.3,
-      "battery_voltage": 12.34,
-      "fuel_efficiency": 14.3,
-      "vibration_level": 2.41,
-      "emission_level": 1.55,
-      "engine_load": 52.7,
-      "intake_pressure": 234.5,
-      "throttle_position": 61.6,
-      "air_fuel_ratio": 14.31
-    },
-    "faults": [
-      "Emission 1.55 > 1.5"
-    ]
-  },
-  {
-    "timestamp": "2025-10-21 22:05:59",
-    "car_number": "KA01AB1234",
-    "sensors": {
-      "temperature": 102.3,
-      "oil_pressure": 45.0,
-      "rpm": 5431,
-      "coolant_level": 39.9,
-      "battery_voltage": 12.6,
-      "fuel_efficiency": 9.4,
-      "vibration_level": 5.42,
-      "emission_level": 1.45,
-      "engine_load": 44.4,
-      "intake_pressure": 203.5,
-      "throttle_position": 12.3,
-      "air_fuel_ratio": 12.95
-    },
-    "faults": [
-      "Vibration 5.42 > 5.0"
-    ]
-  },
-  {
-    "timestamp": "2025-10-21 22:06:00",
-    "car_number": "KA01AB1234",
-    "sensors": {
-      "temperature": 88.6,
-      "oil_pressure": 42.7,
-      "rpm": 3374,
-      "coolant_level": 91.1,
-      "battery_voltage": 12.84,
-      "fuel_efficiency": 8.3,
-      "vibration_level": 4.43,
-      "emission_level": 1.91,
-      "engine_load": 96.7,
-      "intake_pressure": 230.5,
-      "throttle_position": 12.5,
-      "air_fuel_ratio": 11.83
-    },
-    "faults": [
-      "Emission 1.91 > 1.5",
-      "Engine load 96.7% > 90%",
-      "AFR 11.83 out of range (12.0-15.5)"
-    ]
-  },
-  {
-    "timestamp": "2025-10-21 22:06:01",
-    "car_number": "KA01AB1234",
-    "sensors": {
-      "temperature": 90.4,
-      "oil_pressure": 42.4,
-      "rpm": 2377,
-      "coolant_level": 71.2,
-      "battery_voltage": 13.77,
-      "fuel_efficiency": 13.3,
-      "vibration_level": 5.72,
-      "emission_level": 1.03,
-      "engine_load": 80.5,
-      "intake_pressure": 143.7,
-      "throttle_position": 56.1,
-      "air_fuel_ratio": 14.04
-    },
-    "faults": [
-      "Vibration 5.72 > 5.0"
-    ]
-  },
-  {
-    "timestamp": "2025-10-21 22:06:02",
-    "car_number": "KA01AB1234",
-    "sensors": {
-      "temperature": 98.6,
-      "oil_pressure": 58.2,
-      "rpm": 4733,
-      "coolant_level": 31.9,
-      "battery_voltage": 14.91,
-      "fuel_efficiency": 8.2,
-      "vibration_level": 2.2,
-      "emission_level": 1.76,
-      "engine_load": 44.6,
-      "intake_pressure": 203.8,
-      "throttle_position": 74.7,
-      "air_fuel_ratio": 14.84
-    },
-    "faults": [
-      "Battery voltage 14.91V out of range (11.8-14.8V)",
-      "Emission 1.76 > 1.5"
-    ]
-  },
-  {
-    "timestamp": "2025-10-21 22:06:03",
-    "car_number": "KA01AB1234",
-    "sensors": {
-      "temperature": 103.2,
-      "oil_pressure": 35.5,
-      "rpm": 3519,
-      "coolant_level": 52.2,
-      "battery_voltage": 12.31,
-      "fuel_efficiency": 7.3,
-      "vibration_level": 2.98,
-      "emission_level": 1.01,
-      "engine_load": 73.6,
-      "intake_pressure": 90.4,
-      "throttle_position": 59.2,
-      "air_fuel_ratio": 12.49
-    },
-    "faults": [
-      "Fuel efficiency 7.3 km/l < 8.0 km/l"
-    ]
-  },
-  {
-    "timestamp": "2025-10-21 22:06:04",
-    "car_number": "KA01AB1234",
-    "sensors": {
-      "temperature": 94.7,
-      "oil_pressure": 20.2,
-      "rpm": 6690,
-      "coolant_level": 60.2,
-      "battery_voltage": 12.92,
-      "fuel_efficiency": 6.5,
-      "vibration_level": 5.03,
-      "emission_level": 1.21,
-      "engine_load": 53.2,
-      "intake_pressure": 202.6,
-      "throttle_position": 10.9,
-      "air_fuel_ratio": 12.66
-    },
-    "faults": [
-      "Oil pressure 20.2 PSI < 25 PSI",
-      "RPM 6690 > 6500",
-      "Fuel efficiency 6.5 km/l < 8.0 km/l",
-      "Vibration 5.03 > 5.0"
-    ]
-  },
-  {
-    "timestamp": "2025-10-21 22:06:05",
-    "car_number": "KA01AB1234",
-    "sensors": {
-      "temperature": 93.7,
-      "oil_pressure": 36.9,
-      "rpm": 2777,
-      "coolant_level": 64.1,
-      "battery_voltage": 13.6,
-      "fuel_efficiency": 6.3,
-      "vibration_level": 2.12,
-      "emission_level": 1.98,
-      "engine_load": 48.3,
-      "intake_pressure": 112.3,
-      "throttle_position": 6.4,
-      "air_fuel_ratio": 12.25
-    },
-    "faults": [
-      "Fuel efficiency 6.3 km/l < 8.0 km/l",
-      "Emission 1.98 > 1.5"
-    ]
-  },
-  {
-    "timestamp": "2025-10-21 22:06:06",
-    "car_number": "KA01AB1234",
-    "sensors": {
-      "temperature": 93.3,
-      "oil_pressure": 26.2,
-      "rpm": 1205,
-      "coolant_level": 68.4,
-      "battery_voltage": 14.41,
-      "fuel_efficiency": 6.9,
-      "vibration_level": 5.87,
-      "emission_level": 1.59,
-      "engine_load": 34.3,
-      "intake_pressure": 186.5,
-      "throttle_position": 6.8,
-      "air_fuel_ratio": 12.6
-    },
-    "faults": [
-      "Fuel efficiency 6.9 km/l < 8.0 km/l",
-      "Vibration 5.87 > 5.0",
-      "Emission 1.59 > 1.5"
-    ]
-  },
-  {
-    "timestamp": "2025-10-21 22:06:07",
-    "car_number": "KA01AB1234",
-    "sensors": {
-      "temperature": 87.1,
-      "oil_pressure": 36.1,
-      "rpm": 3672,
-      "coolant_level": 81.1,
-      "battery_voltage": 14.15,
-      "fuel_efficiency": 6.4,
-      "vibration_level": 5.13,
-      "emission_level": 1.52,
-      "engine_load": 97.7,
-      "intake_pressure": 151.9,
-      "throttle_position": 97.1,
-      "air_fuel_ratio": 14.26
-    },
-    "faults": [
-      "Fuel efficiency 6.4 km/l < 8.0 km/l",
-      "Vibration 5.13 > 5.0",
-      "Emission 1.52 > 1.5",
-      "Engine load 97.7% > 90%",
-      "Throttle position 97.1% > 95%"
-    ]
-  },
-  {
-    "timestamp": "2025-10-21 22:06:08",
-    "car_number": "KA01AB1234",
-    "sensors": {
-      "temperature": 104.8,
-      "oil_pressure": 51.8,
-      "rpm": 6050,
-      "coolant_level": 90.1,
-      "battery_voltage": 13.08,
-      "fuel_efficiency": 9.3,
-      "vibration_level": 3.2,
-      "emission_level": 1.24,
-      "engine_load": 48.5,
-      "intake_pressure": 155.3,
-      "throttle_position": 28.7,
-      "air_fuel_ratio": 12.76
-    },
-    "faults": []
-  },
-  {
-    "timestamp": "2025-10-21 22:06:09",
-    "car_number": "KA01AB1234",
-    "sensors": {
-      "temperature": 90.4,
-      "oil_pressure": 44.9,
-      "rpm": 2682,
-      "coolant_level": 46.7,
-      "battery_voltage": 13.23,
-      "fuel_efficiency": 8.6,
-      "vibration_level": 1.97,
-      "emission_level": 1.95,
-      "engine_load": 38.8,
-      "intake_pressure": 191.4,
-      "throttle_position": 10.5,
+      "engine_load": 31.8,
+      "intake_pressure": 250.4,
+      "throttle_position": 91.3,
       "air_fuel_ratio": 15.63
     },
     "faults": [
-      "Emission 1.95 > 1.5",
+      "Fuel efficiency 7.0 km/l < 8.0 km/l",
+      "Emission 1.87 > 1.5",
+      "Intake pressure 250.4 > 250",
       "AFR 15.63 out of range (12.0-15.5)"
     ]
   },
   {
-    "timestamp": "2025-10-21 22:06:11",
+    "timestamp": "2026-07-02 16:07:20",
     "car_number": "KA01AB1234",
     "sensors": {
-      "temperature": 104.9,
-      "oil_pressure": 44.4,
-      "rpm": 5139,
-      "coolant_level": 76.0,
-      "battery_voltage": 12.73,
-      "fuel_efficiency": 9.9,
-      "vibration_level": 3.05,
-      "emission_level": 1.58,
-      "engine_load": 77.4,
-      "intake_pressure": 201.3,
-      "throttle_position": 85.3,
-      "air_fuel_ratio": 14.41
+      "temperature": 85.1,
+      "oil_pressure": 29.6,
+      "rpm": 5670,
+      "coolant_level": 83.8,
+      "battery_voltage": 14.25,
+      "fuel_efficiency": 6.4,
+      "vibration_level": 5.81,
+      "emission_level": 0.97,
+      "engine_load": 64.8,
+      "intake_pressure": 237.5,
+      "throttle_position": 68.7,
+      "air_fuel_ratio": 15.86
     },
     "faults": [
-      "Emission 1.58 > 1.5"
+      "Fuel efficiency 6.4 km/l < 8.0 km/l",
+      "Vibration 5.81 > 5.0",
+      "AFR 15.86 out of range (12.0-15.5)"
     ]
   },
   {
-    "timestamp": "2025-10-21 22:06:11",
+    "timestamp": "2026-07-02 16:07:45",
     "car_number": "KA01AB1234",
     "sensors": {
-      "temperature": 86.9,
-      "oil_pressure": 49.6,
-      "rpm": 6890,
-      "coolant_level": 79.7,
-      "battery_voltage": 14.37,
-      "fuel_efficiency": 7.5,
-      "vibration_level": 3.57,
-      "emission_level": 1.43,
-      "engine_load": 52.1,
-      "intake_pressure": 259.1,
-      "throttle_position": 57.8,
-      "air_fuel_ratio": 14.14
-    },
-    "faults": [
-      "RPM 6890 > 6500",
-      "Fuel efficiency 7.5 km/l < 8.0 km/l",
-      "Intake pressure 259.1 > 250"
-    ]
-  },
-  {
-    "timestamp": "2025-10-21 22:06:12",
-    "car_number": "KA01AB1234",
-    "sensors": {
-      "temperature": 100.5,
-      "oil_pressure": 22.2,
-      "rpm": 3498,
-      "coolant_level": 76.1,
-      "battery_voltage": 14.41,
-      "fuel_efficiency": 8.1,
-      "vibration_level": 5.37,
-      "emission_level": 0.99,
-      "engine_load": 82.9,
-      "intake_pressure": 201.3,
-      "throttle_position": 62.4,
-      "air_fuel_ratio": 12.94
-    },
-    "faults": [
-      "Oil pressure 22.2 PSI < 25 PSI",
-      "Vibration 5.37 > 5.0"
-    ]
-  },
-  {
-    "timestamp": "2025-10-21 22:06:13",
-    "car_number": "KA01AB1234",
-    "sensors": {
-      "temperature": 95.0,
-      "oil_pressure": 38.6,
-      "rpm": 4886,
-      "coolant_level": 94.5,
-      "battery_voltage": 13.42,
-      "fuel_efficiency": 6.8,
-      "vibration_level": 2.67,
-      "emission_level": 1.5,
-      "engine_load": 77.0,
-      "intake_pressure": 80.6,
-      "throttle_position": 84.5,
-      "air_fuel_ratio": 14.22
-    },
-    "faults": [
-      "Fuel efficiency 6.8 km/l < 8.0 km/l"
-    ]
-  },
-  {
-    "timestamp": "2025-10-21 22:06:14",
-    "car_number": "KA01AB1234",
-    "sensors": {
-      "temperature": 103.1,
-      "oil_pressure": 41.7,
-      "rpm": 4292,
-      "coolant_level": 35.2,
-      "battery_voltage": 14.41,
-      "fuel_efficiency": 9.3,
-      "vibration_level": 1.83,
-      "emission_level": 1.16,
-      "engine_load": 68.5,
-      "intake_pressure": 102.8,
-      "throttle_position": 92.6,
-      "air_fuel_ratio": 14.32
-    },
-    "faults": []
-  },
-  {
-    "timestamp": "2025-10-21 22:06:15",
-    "car_number": "KA01AB1234",
-    "sensors": {
-      "temperature": 94.8,
-      "oil_pressure": 37.5,
-      "rpm": 2060,
-      "coolant_level": 86.2,
-      "battery_voltage": 14.02,
-      "fuel_efficiency": 9.4,
-      "vibration_level": 4.07,
-      "emission_level": 1.46,
-      "engine_load": 85.8,
-      "intake_pressure": 231.7,
-      "throttle_position": 20.1,
-      "air_fuel_ratio": 11.72
-    },
-    "faults": [
-      "AFR 11.72 out of range (12.0-15.5)"
-    ]
-  },
-  {
-    "timestamp": "2025-10-21 22:06:16",
-    "car_number": "KA01AB1234",
-    "sensors": {
-      "temperature": 91.9,
-      "oil_pressure": 44.5,
-      "rpm": 2493,
-      "coolant_level": 63.6,
-      "battery_voltage": 12.82,
-      "fuel_efficiency": 14.1,
-      "vibration_level": 2.78,
+      "temperature": 91.0,
+      "oil_pressure": 28.3,
+      "rpm": 1822,
+      "coolant_level": 44.9,
+      "battery_voltage": 14.01,
+      "fuel_efficiency": 14.2,
+      "vibration_level": 4.64,
       "emission_level": 1.79,
-      "engine_load": 55.0,
-      "intake_pressure": 244.8,
-      "throttle_position": 6.4,
-      "air_fuel_ratio": 13.55
+      "engine_load": 26.2,
+      "intake_pressure": 211.2,
+      "throttle_position": 74.5,
+      "air_fuel_ratio": 12.1
     },
     "faults": [
       "Emission 1.79 > 1.5"
     ]
   },
   {
-    "timestamp": "2025-10-21 22:06:17",
+    "timestamp": "2026-07-02 16:07:47",
     "car_number": "KA01AB1234",
     "sensors": {
       "temperature": 96.3,
-      "oil_pressure": 27.7,
-      "rpm": 6652,
-      "coolant_level": 44.1,
-      "battery_voltage": 14.26,
-      "fuel_efficiency": 14.6,
-      "vibration_level": 3.31,
-      "emission_level": 0.98,
-      "engine_load": 26.6,
-      "intake_pressure": 248.8,
-      "throttle_position": 17.2,
-      "air_fuel_ratio": 14.17
+      "oil_pressure": 22.5,
+      "rpm": 3136,
+      "coolant_level": 41.1,
+      "battery_voltage": 13.48,
+      "fuel_efficiency": 14.3,
+      "vibration_level": 5.92,
+      "emission_level": 1.65,
+      "engine_load": 81.5,
+      "intake_pressure": 142.5,
+      "throttle_position": 32.8,
+      "air_fuel_ratio": 15.1
     },
     "faults": [
-      "RPM 6652 > 6500"
+      "Oil pressure 22.5 PSI < 25 PSI",
+      "Vibration 5.92 > 5.0",
+      "Emission 1.65 > 1.5"
     ]
   },
   {
-    "timestamp": "2025-10-21 22:06:18",
+    "timestamp": "2026-07-02 16:07:49",
     "car_number": "KA01AB1234",
-    "sensors": {
-      "temperature": 86.0,
-      "oil_pressure": 32.3,
-      "rpm": 3356,
-      "coolant_level": 84.7,
-      "battery_voltage": 14.84,
-      "fuel_efficiency": 6.2,
-      "vibration_level": 4.41,
-      "emission_level": 1.2,
-      "engine_load": 89.9,
-      "intake_pressure": 245.2,
-      "throttle_position": 68.5,
-      "air_fuel_ratio": 13.74
-    },
-    "faults": [
-      "Battery voltage 14.84V out of range (11.8-14.8V)",
-      "Fuel efficiency 6.2 km/l < 8.0 km/l"
-    ]
-  },
-  {
-    "timestamp": "2025-10-21 22:06:19",
-    "car_number": "KA01AB1234",
-    "sensors": {
-      "temperature": 96.9,
-      "oil_pressure": 23.7,
-      "rpm": 1517,
-      "coolant_level": 53.8,
-      "battery_voltage": 14.64,
-      "fuel_efficiency": 7.8,
-      "vibration_level": 5.5,
-      "emission_level": 0.93,
-      "engine_load": 84.3,
-      "intake_pressure": 194.8,
-      "throttle_position": 99.2,
-      "air_fuel_ratio": 12.1
-    },
-    "faults": [
-      "Oil pressure 23.7 PSI < 25 PSI",
-      "Fuel efficiency 7.8 km/l < 8.0 km/l",
-      "Vibration 5.5 > 5.0",
-      "Throttle position 99.2% > 95%"
-    ]
-  },
-  {
-    "timestamp": "2025-10-21 22:06:20",
-    "car_number": "KA05CD5678",
-    "sensors": {
-      "temperature": 86.9,
-      "oil_pressure": 43.1,
-      "rpm": 3268,
-      "coolant_level": 82.8,
-      "battery_voltage": 14.48,
-      "fuel_efficiency": 7.8,
-      "vibration_level": 5.57,
-      "emission_level": 1.64,
-      "engine_load": 77.1,
-      "intake_pressure": 115.3,
-      "throttle_position": 31.0,
-      "air_fuel_ratio": 14.23
-    },
-    "faults": [
-      "Vibration 5.57 > 5.5",
-      "Emission 1.64 > 1.6"
-    ]
-  },
-  {
-    "timestamp": "2025-10-21 22:06:21",
-    "car_number": "KA05CD5678",
-    "sensors": {
-      "temperature": 104.0,
-      "oil_pressure": 38.1,
-      "rpm": 4032,
-      "coolant_level": 32.2,
-      "battery_voltage": 12.4,
-      "fuel_efficiency": 13.6,
-      "vibration_level": 5.31,
-      "emission_level": 2.04,
-      "engine_load": 94.6,
-      "intake_pressure": 187.8,
-      "throttle_position": 38.8,
-      "air_fuel_ratio": 13.07
-    },
-    "faults": [
-      "Emission 2.04 > 1.6",
-      "Engine load 94.6% > 88%"
-    ]
-  },
-  {
-    "timestamp": "2025-10-21 22:06:22",
-    "car_number": "KA05CD5678",
-    "sensors": {
-      "temperature": 86.9,
-      "oil_pressure": 53.8,
-      "rpm": 3958,
-      "coolant_level": 43.1,
-      "battery_voltage": 12.43,
-      "fuel_efficiency": 9.6,
-      "vibration_level": 5.32,
-      "emission_level": 1.03,
-      "engine_load": 42.9,
-      "intake_pressure": 131.9,
-      "throttle_position": 39.9,
-      "air_fuel_ratio": 14.36
-    },
-    "faults": []
-  },
-  {
-    "timestamp": "2025-10-21 22:06:23",
-    "car_number": "KA05CD5678",
-    "sensors": {
-      "temperature": 86.0,
-      "oil_pressure": 22.1,
-      "rpm": 5629,
-      "coolant_level": 41.2,
-      "battery_voltage": 14.24,
-      "fuel_efficiency": 7.5,
-      "vibration_level": 3.27,
-      "emission_level": 1.12,
-      "engine_load": 55.9,
-      "intake_pressure": 138.5,
-      "throttle_position": 87.7,
-      "air_fuel_ratio": 14.16
-    },
-    "faults": []
-  },
-  {
-    "timestamp": "2025-10-21 22:06:24",
-    "car_number": "KA05CD5678",
-    "sensors": {
-      "temperature": 93.4,
-      "oil_pressure": 48.9,
-      "rpm": 3946,
-      "coolant_level": 91.7,
-      "battery_voltage": 12.45,
-      "fuel_efficiency": 10.8,
-      "vibration_level": 2.96,
-      "emission_level": 1.42,
-      "engine_load": 68.4,
-      "intake_pressure": 249.1,
-      "throttle_position": 70.3,
-      "air_fuel_ratio": 15.42
-    },
-    "faults": [
-      "Intake pressure 249.1 > 240",
-      "AFR 15.42 out of range (11.8-15.2)"
-    ]
-  },
-  {
-    "timestamp": "2025-10-21 22:06:25",
-    "car_number": "KA05CD5678",
-    "sensors": {
-      "temperature": 102.3,
-      "oil_pressure": 21.7,
-      "rpm": 3364,
-      "coolant_level": 45.9,
-      "battery_voltage": 14.79,
-      "fuel_efficiency": 9.9,
-      "vibration_level": 2.16,
-      "emission_level": 1.95,
-      "engine_load": 52.8,
-      "intake_pressure": 234.3,
-      "throttle_position": 31.9,
-      "air_fuel_ratio": 15.17
-    },
-    "faults": [
-      "Oil pressure 21.7 PSI < 22 PSI",
-      "Emission 1.95 > 1.6"
-    ]
-  },
-  {
-    "timestamp": "2025-10-21 22:06:26",
-    "car_number": "KA05CD5678",
-    "sensors": {
-      "temperature": 106.7,
-      "oil_pressure": 20.3,
-      "rpm": 4829,
-      "coolant_level": 48.6,
-      "battery_voltage": 14.56,
-      "fuel_efficiency": 7.1,
-      "vibration_level": 2.11,
-      "emission_level": 1.9,
-      "engine_load": 60.5,
-      "intake_pressure": 216.3,
-      "throttle_position": 33.0,
-      "air_fuel_ratio": 12.41
-    },
-    "faults": [
-      "Oil pressure 20.3 PSI < 22 PSI",
-      "Emission 1.9 > 1.6"
-    ]
-  },
-  {
-    "timestamp": "2025-10-21 22:06:27",
-    "car_number": "KA05CD5678",
-    "sensors": {
-      "temperature": 96.9,
-      "oil_pressure": 24.0,
-      "rpm": 3915,
-      "coolant_level": 99.7,
-      "battery_voltage": 12.25,
-      "fuel_efficiency": 12.9,
-      "vibration_level": 2.17,
-      "emission_level": 1.56,
-      "engine_load": 26.2,
-      "intake_pressure": 139.6,
-      "throttle_position": 72.3,
-      "air_fuel_ratio": 12.54
-    },
-    "faults": []
-  },
-  {
-    "timestamp": "2025-10-21 22:06:28",
-    "car_number": "KA05CD5678",
-    "sensors": {
-      "temperature": 109.6,
-      "oil_pressure": 27.5,
-      "rpm": 6784,
-      "coolant_level": 99.8,
-      "battery_voltage": 14.78,
-      "fuel_efficiency": 8.4,
-      "vibration_level": 2.89,
-      "emission_level": 1.02,
-      "engine_load": 78.0,
-      "intake_pressure": 185.7,
-      "throttle_position": 80.9,
-      "air_fuel_ratio": 14.26
-    },
-    "faults": []
-  },
-  {
-    "timestamp": "2025-10-21 22:06:29",
-    "car_number": "KA05CD5678",
-    "sensors": {
-      "temperature": 106.0,
-      "oil_pressure": 51.8,
-      "rpm": 2976,
-      "coolant_level": 46.1,
-      "battery_voltage": 14.11,
-      "fuel_efficiency": 10.7,
-      "vibration_level": 6.08,
-      "emission_level": 1.32,
-      "engine_load": 67.5,
-      "intake_pressure": 196.2,
-      "throttle_position": 18.8,
-      "air_fuel_ratio": 13.72
-    },
-    "faults": [
-      "Vibration 6.08 > 5.5"
-    ]
-  },
-  {
-    "timestamp": "2025-10-21 22:06:30",
-    "car_number": "KA05CD5678",
-    "sensors": {
-      "temperature": 98.1,
-      "oil_pressure": 20.6,
-      "rpm": 2163,
-      "coolant_level": 48.0,
-      "battery_voltage": 14.05,
-      "fuel_efficiency": 10.3,
-      "vibration_level": 5.84,
-      "emission_level": 1.24,
-      "engine_load": 91.2,
-      "intake_pressure": 98.1,
-      "throttle_position": 93.7,
-      "air_fuel_ratio": 14.02
-    },
-    "faults": [
-      "Oil pressure 20.6 PSI < 22 PSI",
-      "Vibration 5.84 > 5.5",
-      "Engine load 91.2% > 88%"
-    ]
-  },
-  {
-    "timestamp": "2025-10-21 22:06:31",
-    "car_number": "KA05CD5678",
-    "sensors": {
-      "temperature": 106.0,
-      "oil_pressure": 35.2,
-      "rpm": 1023,
-      "coolant_level": 89.2,
-      "battery_voltage": 13.54,
-      "fuel_efficiency": 11.8,
-      "vibration_level": 3.04,
-      "emission_level": 1.49,
-      "engine_load": 37.6,
-      "intake_pressure": 112.1,
-      "throttle_position": 17.5,
-      "air_fuel_ratio": 15.22
-    },
-    "faults": [
-      "AFR 15.22 out of range (11.8-15.2)"
-    ]
-  },
-  {
-    "timestamp": "2025-10-21 22:06:32",
-    "car_number": "KA09EF9101",
-    "sensors": {
-      "temperature": 90.4,
-      "oil_pressure": 63.7,
-      "rpm": 8923,
-      "coolant_level": 47.8,
-      "battery_voltage": 14.97,
-      "fuel_efficiency": 9.2,
-      "vibration_level": 3.64,
-      "emission_level": 0.9,
-      "engine_load": 66.1,
-      "intake_pressure": 152.1,
-      "throttle_position": 77.6,
-      "air_fuel_ratio": 12.31
-    },
-    "faults": [
-      "Battery voltage 14.97V out of range (11.9-14.9V)"
-    ]
-  },
-  {
-    "timestamp": "2025-10-21 22:06:33",
-    "car_number": "KA09EF9101",
-    "sensors": {
-      "temperature": 108.8,
-      "oil_pressure": 39.0,
-      "rpm": 4489,
-      "coolant_level": 41.3,
-      "battery_voltage": 13.92,
-      "fuel_efficiency": 6.9,
-      "vibration_level": 4.94,
-      "emission_level": 1.46,
-      "engine_load": 88.0,
-      "intake_pressure": 103.5,
-      "throttle_position": 89.3,
-      "air_fuel_ratio": 13.12
-    },
-    "faults": [
-      "Temperature 108.8\u00b0C > 108\u00b0C",
-      "Emission 1.46 > 1.3"
-    ]
-  },
-  {
-    "timestamp": "2025-10-21 22:06:34",
-    "car_number": "KA09EF9101",
-    "sensors": {
-      "temperature": 97.8,
-      "oil_pressure": 31.1,
-      "rpm": 3919,
-      "coolant_level": 91.6,
-      "battery_voltage": 14.71,
-      "fuel_efficiency": 10.0,
-      "vibration_level": 6.3,
-      "emission_level": 0.94,
-      "engine_load": 67.9,
-      "intake_pressure": 212.6,
-      "throttle_position": 29.3,
-      "air_fuel_ratio": 13.72
-    },
-    "faults": [
-      "Vibration 6.3 > 6.0"
-    ]
-  },
-  {
-    "timestamp": "2025-10-21 22:06:35",
-    "car_number": "KA09EF9101",
-    "sensors": {
-      "temperature": 92.8,
-      "oil_pressure": 34.4,
-      "rpm": 8090,
-      "coolant_level": 37.4,
-      "battery_voltage": 13.7,
-      "fuel_efficiency": 7.2,
-      "vibration_level": 1.56,
-      "emission_level": 1.58,
-      "engine_load": 72.8,
-      "intake_pressure": 115.9,
-      "throttle_position": 39.0,
-      "air_fuel_ratio": 12.04
-    },
-    "faults": [
-      "Emission 1.58 > 1.3",
-      "AFR 12.04 out of range (12.2-15.0)"
-    ]
-  },
-  {
-    "timestamp": "2025-10-21 22:06:36",
-    "car_number": "KA09EF9101",
-    "sensors": {
-      "temperature": 106.2,
-      "oil_pressure": 65.0,
-      "rpm": 5671,
-      "coolant_level": 50.8,
-      "battery_voltage": 14.11,
-      "fuel_efficiency": 8.7,
-      "vibration_level": 4.96,
-      "emission_level": 0.95,
-      "engine_load": 63.2,
-      "intake_pressure": 168.8,
-      "throttle_position": 75.3,
-      "air_fuel_ratio": 12.5
-    },
-    "faults": []
-  },
-  {
-    "timestamp": "2025-10-21 22:06:37",
-    "car_number": "KA09EF9101",
-    "sensors": {
-      "temperature": 100.0,
-      "oil_pressure": 62.4,
-      "rpm": 7853,
-      "coolant_level": 40.0,
-      "battery_voltage": 12.14,
-      "fuel_efficiency": 7.3,
-      "vibration_level": 4.01,
-      "emission_level": 1.39,
-      "engine_load": 91.8,
-      "intake_pressure": 246.3,
-      "throttle_position": 77.0,
-      "air_fuel_ratio": 14.57
-    },
-    "faults": [
-      "Emission 1.39 > 1.3",
-      "Intake pressure 246.3 > 245"
-    ]
-  },
-  {
-    "timestamp": "2025-10-21 22:06:38",
-    "car_number": "KA09EF9101",
-    "sensors": {
-      "temperature": 98.8,
-      "oil_pressure": 38.8,
-      "rpm": 5936,
-      "coolant_level": 75.1,
-      "battery_voltage": 13.55,
-      "fuel_efficiency": 8.8,
-      "vibration_level": 4.58,
-      "emission_level": 1.78,
-      "engine_load": 61.3,
-      "intake_pressure": 175.5,
-      "throttle_position": 46.6,
-      "air_fuel_ratio": 14.69
-    },
-    "faults": [
-      "Emission 1.78 > 1.3"
-    ]
-  },
-  {
-    "timestamp": "2025-10-21 22:06:39",
-    "car_number": "KA09EF9101",
-    "sensors": {
-      "temperature": 108.6,
-      "oil_pressure": 42.3,
-      "rpm": 6124,
-      "coolant_level": 99.0,
-      "battery_voltage": 13.0,
-      "fuel_efficiency": 9.9,
-      "vibration_level": 3.34,
-      "emission_level": 1.21,
-      "engine_load": 35.0,
-      "intake_pressure": 159.9,
-      "throttle_position": 91.1,
-      "air_fuel_ratio": 12.5
-    },
-    "faults": [
-      "Temperature 108.6\u00b0C > 108\u00b0C"
-    ]
-  },
-  {
-    "timestamp": "2025-10-21 22:06:40",
-    "car_number": "KA09EF9101",
-    "sensors": {
-      "temperature": 110.5,
-      "oil_pressure": 56.4,
-      "rpm": 6848,
-      "coolant_level": 73.1,
-      "battery_voltage": 14.67,
-      "fuel_efficiency": 9.7,
-      "vibration_level": 2.58,
-      "emission_level": 1.28,
-      "engine_load": 35.8,
-      "intake_pressure": 228.7,
-      "throttle_position": 90.0,
-      "air_fuel_ratio": 13.46
-    },
-    "faults": [
-      "Temperature 110.5\u00b0C > 108\u00b0C"
-    ]
-  },
-  {
-    "timestamp": "2025-10-21 22:06:41",
-    "car_number": "KA09EF9101",
-    "sensors": {
-      "temperature": 107.5,
-      "oil_pressure": 38.1,
-      "rpm": 1104,
-      "coolant_level": 32.8,
-      "battery_voltage": 13.89,
-      "fuel_efficiency": 5.9,
-      "vibration_level": 4.98,
-      "emission_level": 1.78,
-      "engine_load": 34.9,
-      "intake_pressure": 178.7,
-      "throttle_position": 1.5,
-      "air_fuel_ratio": 15.26
-    },
-    "faults": [
-      "Coolant level 32.8% < 35%",
-      "Fuel efficiency 5.9 km/l < 6.5 km/l",
-      "Emission 1.78 > 1.3",
-      "AFR 15.26 out of range (12.2-15.0)"
-    ]
-  },
-  {
-    "timestamp": "2025-10-21 22:06:42",
-    "car_number": "KA09EF9101",
-    "sensors": {
-      "temperature": 93.9,
-      "oil_pressure": 61.6,
-      "rpm": 8170,
-      "coolant_level": 45.3,
-      "battery_voltage": 13.45,
-      "fuel_efficiency": 8.8,
-      "vibration_level": 6.55,
-      "emission_level": 1.59,
-      "engine_load": 64.5,
-      "intake_pressure": 255.6,
-      "throttle_position": 99.4,
-      "air_fuel_ratio": 12.94
-    },
-    "faults": [
-      "Vibration 6.55 > 6.0",
-      "Emission 1.59 > 1.3",
-      "Intake pressure 255.6 > 245",
-      "Throttle position 99.4% > 98%"
-    ]
-  },
-  {
-    "timestamp": "2025-10-21 22:06:43",
-    "car_number": "KA09EF9101",
-    "sensors": {
-      "temperature": 91.1,
-      "oil_pressure": 35.7,
-      "rpm": 4045,
-      "coolant_level": 80.9,
-      "battery_voltage": 12.71,
-      "fuel_efficiency": 5.6,
-      "vibration_level": 6.34,
-      "emission_level": 0.83,
-      "engine_load": 87.8,
-      "intake_pressure": 102.3,
-      "throttle_position": 36.7,
-      "air_fuel_ratio": 12.8
-    },
-    "faults": [
-      "Fuel efficiency 5.6 km/l < 6.5 km/l",
-      "Vibration 6.34 > 6.0"
-    ]
-  },
-  {
-    "timestamp": "2025-10-21 22:06:44",
-    "car_number": "KA09EF9101",
-    "sensors": {
-      "temperature": 91.9,
-      "oil_pressure": 53.9,
-      "rpm": 2198,
-      "coolant_level": 40.6,
-      "battery_voltage": 14.63,
-      "fuel_efficiency": 8.6,
-      "vibration_level": 5.7,
-      "emission_level": 0.71,
-      "engine_load": 94.8,
-      "intake_pressure": 189.1,
-      "throttle_position": 37.0,
-      "air_fuel_ratio": 13.02
-    },
-    "faults": []
-  },
-  {
-    "timestamp": "2025-10-21 22:06:45",
-    "car_number": "KA09EF9101",
-    "sensors": {
-      "temperature": 92.5,
-      "oil_pressure": 53.1,
-      "rpm": 3861,
-      "coolant_level": 81.4,
-      "battery_voltage": 13.25,
-      "fuel_efficiency": 8.8,
-      "vibration_level": 4.04,
-      "emission_level": 1.76,
-      "engine_load": 42.8,
-      "intake_pressure": 201.1,
-      "throttle_position": 77.1,
-      "air_fuel_ratio": 14.28
-    },
-    "faults": [
-      "Emission 1.76 > 1.3"
-    ]
-  },
-  {
-    "timestamp": "2025-10-21 22:06:46",
-    "car_number": "KA09EF9101",
-    "sensors": {
-      "temperature": 94.8,
-      "oil_pressure": 42.1,
-      "rpm": 9280,
-      "coolant_level": 45.2,
-      "battery_voltage": 12.56,
-      "fuel_efficiency": 6.6,
-      "vibration_level": 2.67,
-      "emission_level": 0.71,
-      "engine_load": 39.7,
-      "intake_pressure": 229.6,
-      "throttle_position": 36.9,
-      "air_fuel_ratio": 12.27
-    },
-    "faults": [
-      "RPM 9280 > 9000"
-    ]
-  },
-  {
-    "timestamp": "2025-10-21 22:06:47",
-    "car_number": "KA09EF9101",
-    "sensors": {
-      "temperature": 100.8,
-      "oil_pressure": 51.9,
-      "rpm": 1283,
-      "coolant_level": 99.6,
-      "battery_voltage": 13.56,
-      "fuel_efficiency": 6.9,
-      "vibration_level": 1.87,
-      "emission_level": 1.82,
-      "engine_load": 87.3,
-      "intake_pressure": 208.5,
-      "throttle_position": 86.0,
-      "air_fuel_ratio": 15.12
-    },
-    "faults": [
-      "Emission 1.82 > 1.3",
-      "AFR 15.12 out of range (12.2-15.0)"
-    ]
-  },
-  {
-    "timestamp": "2025-10-22 12:23:38",
-    "car_number": "KA01AB1234",
-    "sensors": {
-      "temperature": 88.4,
-      "oil_pressure": 35.9,
-      "rpm": 2149,
-      "coolant_level": 85.6,
-      "battery_voltage": 14.34,
-      "fuel_efficiency": 7.7,
-      "vibration_level": 5.57,
-      "emission_level": 1.41,
-      "engine_load": 77.3,
-      "intake_pressure": 163.8,
-      "throttle_position": 77.8,
-      "air_fuel_ratio": 14.73
-    },
-    "faults": [
-      "Fuel efficiency 7.7 km/l < 8.0 km/l",
-      "Vibration 5.57 > 5.0"
-    ]
-  },
-  {
-    "timestamp": "2025-10-22 12:23:40",
-    "car_number": "KA01AB1234",
-    "sensors": {
-      "temperature": 103.1,
-      "oil_pressure": 56.9,
-      "rpm": 2228,
-      "coolant_level": 55.8,
-      "battery_voltage": 14.36,
-      "fuel_efficiency": 12.3,
-      "vibration_level": 2.59,
-      "emission_level": 1.8,
-      "engine_load": 74.7,
-      "intake_pressure": 88.9,
-      "throttle_position": 74.2,
-      "air_fuel_ratio": 14.89
-    },
-    "faults": [
-      "Emission 1.8 > 1.5"
-    ]
-  },
-  {
-    "timestamp": "2025-10-22 12:23:42",
-    "car_number": "KA01AB1234",
-    "sensors": {
-      "temperature": 97.9,
-      "oil_pressure": 39.8,
-      "rpm": 6663,
-      "coolant_level": 49.9,
-      "battery_voltage": 14.34,
-      "fuel_efficiency": 12.1,
-      "vibration_level": 5.38,
-      "emission_level": 1.49,
-      "engine_load": 40.3,
-      "intake_pressure": 182.9,
-      "throttle_position": 57.3,
-      "air_fuel_ratio": 13.39
-    },
-    "faults": [
-      "RPM 6663 > 6500",
-      "Vibration 5.38 > 5.0"
-    ]
-  },
-  {
-    "timestamp": "2025-10-22 12:23:43",
-    "car_number": "KA01AB1234",
-    "sensors": {
-      "temperature": 103.4,
-      "oil_pressure": 43.9,
-      "rpm": 3331,
-      "coolant_level": 59.2,
-      "battery_voltage": 12.59,
-      "fuel_efficiency": 6.3,
-      "vibration_level": 3.67,
-      "emission_level": 0.99,
-      "engine_load": 38.3,
-      "intake_pressure": 146.8,
-      "throttle_position": 1.5,
-      "air_fuel_ratio": 15.84
-    },
-    "faults": [
-      "Fuel efficiency 6.3 km/l < 8.0 km/l",
-      "AFR 15.84 out of range (12.0-15.5)"
-    ]
-  },
-  {
-    "timestamp": "2025-10-22 12:23:44",
-    "car_number": "KA01AB1234",
-    "sensors": {
-      "temperature": 99.2,
-      "oil_pressure": 58.4,
-      "rpm": 5907,
-      "coolant_level": 52.9,
-      "battery_voltage": 13.57,
-      "fuel_efficiency": 9.6,
-      "vibration_level": 4.86,
-      "emission_level": 1.45,
-      "engine_load": 47.2,
-      "intake_pressure": 208.7,
-      "throttle_position": 40.4,
-      "air_fuel_ratio": 14.67
-    },
-    "faults": []
-  },
-  {
-    "timestamp": "2025-10-22 12:23:45",
-    "car_number": "KA01AB1234",
-    "sensors": {
-      "temperature": 87.7,
-      "oil_pressure": 54.4,
-      "rpm": 3093,
-      "coolant_level": 34.5,
-      "battery_voltage": 12.62,
-      "fuel_efficiency": 6.2,
-      "vibration_level": 5.85,
-      "emission_level": 1.56,
-      "engine_load": 27.4,
-      "intake_pressure": 124.8,
-      "throttle_position": 0.3,
-      "air_fuel_ratio": 14.84
-    },
-    "faults": [
-      "Fuel efficiency 6.2 km/l < 8.0 km/l",
-      "Vibration 5.85 > 5.0",
-      "Emission 1.56 > 1.5"
-    ]
-  },
-  {
-    "timestamp": "2025-10-22 12:23:46",
-    "car_number": "KA05CD5678",
-    "sensors": {
-      "temperature": 104.2,
-      "oil_pressure": 40.9,
-      "rpm": 1284,
-      "coolant_level": 74.4,
-      "battery_voltage": 13.95,
-      "fuel_efficiency": 8.8,
-      "vibration_level": 4.17,
-      "emission_level": 2.18,
-      "engine_load": 37.7,
-      "intake_pressure": 139.4,
-      "throttle_position": 11.5,
-      "air_fuel_ratio": 11.94
-    },
-    "faults": [
-      "Emission 2.18 > 1.6"
-    ]
-  },
-  {
-    "timestamp": "2025-10-22 12:23:47",
-    "car_number": "KA05CD5678",
-    "sensors": {
-      "temperature": 97.8,
-      "oil_pressure": 27.6,
-      "rpm": 1042,
-      "coolant_level": 71.3,
-      "battery_voltage": 12.37,
-      "fuel_efficiency": 7.4,
-      "vibration_level": 4.0,
-      "emission_level": 1.26,
-      "engine_load": 30.3,
-      "intake_pressure": 245.6,
-      "throttle_position": 1.1,
-      "air_fuel_ratio": 11.68
-    },
-    "faults": [
-      "Intake pressure 245.6 > 240",
-      "AFR 11.68 out of range (11.8-15.2)"
-    ]
-  },
-  {
-    "timestamp": "2025-10-22 12:23:48",
-    "car_number": "KA05CD5678",
-    "sensors": {
-      "temperature": 100.4,
-      "oil_pressure": 30.6,
-      "rpm": 1454,
-      "coolant_level": 59.6,
-      "battery_voltage": 12.16,
-      "fuel_efficiency": 11.8,
-      "vibration_level": 3.82,
-      "emission_level": 0.93,
-      "engine_load": 39.5,
-      "intake_pressure": 197.1,
-      "throttle_position": 15.8,
-      "air_fuel_ratio": 14.89
-    },
-    "faults": []
-  },
-  {
-    "timestamp": "2025-10-22 12:23:49",
-    "car_number": "KA05CD5678",
-    "sensors": {
-      "temperature": 93.5,
-      "oil_pressure": 28.1,
-      "rpm": 4334,
-      "coolant_level": 52.3,
-      "battery_voltage": 12.44,
-      "fuel_efficiency": 10.8,
-      "vibration_level": 2.21,
-      "emission_level": 0.96,
-      "engine_load": 66.4,
-      "intake_pressure": 134.0,
-      "throttle_position": 25.9,
-      "air_fuel_ratio": 14.76
-    },
-    "faults": []
-  },
-  {
-    "timestamp": "2025-10-22 12:23:50",
-    "car_number": "KA05CD5678",
-    "sensors": {
-      "temperature": 100.2,
-      "oil_pressure": 35.4,
-      "rpm": 1845,
-      "coolant_level": 70.3,
-      "battery_voltage": 12.82,
-      "fuel_efficiency": 9.2,
-      "vibration_level": 2.89,
-      "emission_level": 1.95,
-      "engine_load": 61.6,
-      "intake_pressure": 93.5,
-      "throttle_position": 87.3,
-      "air_fuel_ratio": 14.43
-    },
-    "faults": [
-      "Emission 1.95 > 1.6"
-    ]
-  },
-  {
-    "timestamp": "2025-10-22 12:23:51",
-    "car_number": "KA05CD5678",
-    "sensors": {
-      "temperature": 92.3,
-      "oil_pressure": 45.6,
-      "rpm": 5248,
-      "coolant_level": 98.3,
-      "battery_voltage": 14.51,
-      "fuel_efficiency": 9.9,
-      "vibration_level": 3.93,
-      "emission_level": 0.96,
-      "engine_load": 38.5,
-      "intake_pressure": 245.7,
-      "throttle_position": 60.6,
-      "air_fuel_ratio": 12.46
-    },
-    "faults": [
-      "Intake pressure 245.7 > 240"
-    ]
-  },
-  {
-    "timestamp": "2025-10-22 12:23:52",
-    "car_number": "KA05CD5678",
     "sensors": {
       "temperature": 92.2,
-      "oil_pressure": 22.8,
-      "rpm": 6987,
-      "coolant_level": 46.0,
-      "battery_voltage": 12.13,
-      "fuel_efficiency": 11.7,
-      "vibration_level": 4.35,
-      "emission_level": 1.27,
-      "engine_load": 41.2,
-      "intake_pressure": 164.4,
-      "throttle_position": 57.7,
-      "air_fuel_ratio": 13.02
-    },
-    "faults": []
-  },
-  {
-    "timestamp": "2025-10-22 12:23:53",
-    "car_number": "KA05CD5678",
-    "sensors": {
-      "temperature": 102.2,
-      "oil_pressure": 28.8,
-      "rpm": 2035,
-      "coolant_level": 44.4,
-      "battery_voltage": 13.43,
-      "fuel_efficiency": 8.6,
-      "vibration_level": 5.76,
-      "emission_level": 1.38,
-      "engine_load": 86.4,
-      "intake_pressure": 130.1,
-      "throttle_position": 84.0,
-      "air_fuel_ratio": 12.17
-    },
-    "faults": [
-      "Vibration 5.76 > 5.5"
-    ]
-  },
-  {
-    "timestamp": "2025-10-22 12:23:54",
-    "car_number": "KA05CD5678",
-    "sensors": {
-      "temperature": 107.9,
-      "oil_pressure": 56.5,
-      "rpm": 2198,
-      "coolant_level": 64.9,
+      "oil_pressure": 25.2,
+      "rpm": 3984,
+      "coolant_level": 32.7,
       "battery_voltage": 13.67,
-      "fuel_efficiency": 9.7,
-      "vibration_level": 3.18,
-      "emission_level": 1.24,
-      "engine_load": 45.0,
-      "intake_pressure": 169.1,
-      "throttle_position": 20.5,
-      "air_fuel_ratio": 12.37
+      "fuel_efficiency": 6.5,
+      "vibration_level": 4.16,
+      "emission_level": 1.53,
+      "engine_load": 80.4,
+      "intake_pressure": 89.6,
+      "throttle_position": 3.0,
+      "air_fuel_ratio": 14.75
     },
-    "faults": []
+    "faults": [
+      "Fuel efficiency 6.5 km/l < 8.0 km/l",
+      "Emission 1.53 > 1.5"
+    ]
   },
   {
-    "timestamp": "2025-10-22 12:23:55",
-    "car_number": "KA05CD5678",
+    "timestamp": "2026-07-02 16:07:51",
+    "car_number": "KA01AB1234",
     "sensors": {
-      "temperature": 91.7,
-      "oil_pressure": 19.9,
-      "rpm": 2592,
-      "coolant_level": 39.5,
-      "battery_voltage": 13.86,
-      "fuel_efficiency": 7.2,
-      "vibration_level": 5.0,
+      "temperature": 88.9,
+      "oil_pressure": 47.6,
+      "rpm": 1180,
+      "coolant_level": 84.6,
+      "battery_voltage": 12.91,
+      "fuel_efficiency": 9.9,
+      "vibration_level": 5.67,
+      "emission_level": 1.07,
+      "engine_load": 22.6,
+      "intake_pressure": 186.6,
+      "throttle_position": 99.5,
+      "air_fuel_ratio": 11.63
+    },
+    "faults": [
+      "Vibration 5.67 > 5.0",
+      "Throttle position 99.5% > 95%",
+      "AFR 11.63 out of range (12.0-15.5)"
+    ]
+  },
+  {
+    "timestamp": "2026-07-02 16:07:53",
+    "car_number": "KA01AB1234",
+    "sensors": {
+      "temperature": 94.9,
+      "oil_pressure": 48.6,
+      "rpm": 842,
+      "coolant_level": 47.1,
+      "battery_voltage": 12.48,
+      "fuel_efficiency": 13.2,
+      "vibration_level": 2.74,
       "emission_level": 1.32,
-      "engine_load": 74.9,
-      "intake_pressure": 139.0,
-      "throttle_position": 82.7,
-      "air_fuel_ratio": 15.37
-    },
-    "faults": [
-      "Oil pressure 19.9 PSI < 22 PSI",
-      "AFR 15.37 out of range (11.8-15.2)"
-    ]
-  },
-  {
-    "timestamp": "2025-10-22 12:23:56",
-    "car_number": "KA05CD5678",
-    "sensors": {
-      "temperature": 94.3,
-      "oil_pressure": 51.0,
-      "rpm": 5824,
-      "coolant_level": 79.7,
-      "battery_voltage": 13.36,
-      "fuel_efficiency": 13.4,
-      "vibration_level": 3.37,
-      "emission_level": 1.74,
-      "engine_load": 79.6,
-      "intake_pressure": 210.5,
-      "throttle_position": 85.1,
-      "air_fuel_ratio": 15.03
-    },
-    "faults": [
-      "Emission 1.74 > 1.6"
-    ]
-  },
-  {
-    "timestamp": "2025-10-22 12:24:38",
-    "car_number": "KA01AB1234",
-    "sensors": {
-      "temperature": 100.5,
-      "oil_pressure": 49.2,
-      "rpm": 6287,
-      "coolant_level": 84.4,
-      "battery_voltage": 14.69,
-      "fuel_efficiency": 6.8,
-      "vibration_level": 4.27,
-      "emission_level": 0.9,
-      "engine_load": 91.0,
-      "intake_pressure": 192.4,
-      "throttle_position": 90.0,
-      "air_fuel_ratio": 12.95
-    },
-    "faults": [
-      "Fuel efficiency 6.8 km/l < 8.0 km/l",
-      "Engine load 91.0% > 90%"
-    ]
-  },
-  {
-    "timestamp": "2025-10-22 12:24:40",
-    "car_number": "KA01AB1234",
-    "sensors": {
-      "temperature": 88.5,
-      "oil_pressure": 40.9,
-      "rpm": 5988,
-      "coolant_level": 91.7,
-      "battery_voltage": 12.59,
-      "fuel_efficiency": 9.5,
-      "vibration_level": 5.27,
-      "emission_level": 1.88,
-      "engine_load": 78.7,
-      "intake_pressure": 87.3,
-      "throttle_position": 42.0,
-      "air_fuel_ratio": 15.68
-    },
-    "faults": [
-      "Vibration 5.27 > 5.0",
-      "Emission 1.88 > 1.5",
-      "AFR 15.68 out of range (12.0-15.5)"
-    ]
-  },
-  {
-    "timestamp": "2025-10-22 12:24:42",
-    "car_number": "KA01AB1234",
-    "sensors": {
-      "temperature": 102.1,
-      "oil_pressure": 55.6,
-      "rpm": 2502,
-      "coolant_level": 84.3,
-      "battery_voltage": 12.79,
-      "fuel_efficiency": 13.1,
-      "vibration_level": 3.03,
-      "emission_level": 0.97,
-      "engine_load": 61.3,
-      "intake_pressure": 168.6,
-      "throttle_position": 82.7,
-      "air_fuel_ratio": 13.55
+      "engine_load": 76.2,
+      "intake_pressure": 185.6,
+      "throttle_position": 19.0,
+      "air_fuel_ratio": 14.18
     },
     "faults": []
   },
   {
-    "timestamp": "2025-10-22 12:24:44",
+    "timestamp": "2026-07-02 16:08:50",
     "car_number": "KA01AB1234",
     "sensors": {
-      "temperature": 104.9,
-      "oil_pressure": 37.9,
-      "rpm": 2902,
-      "coolant_level": 53.0,
-      "battery_voltage": 13.2,
-      "fuel_efficiency": 12.6,
-      "vibration_level": 4.71,
-      "emission_level": 1.91,
-      "engine_load": 70.2,
-      "intake_pressure": 202.7,
-      "throttle_position": 46.5,
-      "air_fuel_ratio": 15.78
+      "temperature": 105.0,
+      "oil_pressure": 27.3,
+      "rpm": 6294,
+      "coolant_level": 85.0,
+      "battery_voltage": 12.71,
+      "fuel_efficiency": 11.5,
+      "vibration_level": 4.56,
+      "emission_level": 1.04,
+      "engine_load": 49.2,
+      "intake_pressure": 182.1,
+      "throttle_position": 75.9,
+      "air_fuel_ratio": 11.75
     },
     "faults": [
-      "Emission 1.91 > 1.5",
-      "AFR 15.78 out of range (12.0-15.5)"
+      "AFR 11.75 out of range (12.0-15.5)"
     ]
   },
   {
-    "timestamp": "2025-10-22 12:24:46",
+    "timestamp": "2026-07-02 16:08:52",
     "car_number": "KA01AB1234",
     "sensors": {
-      "temperature": 89.9,
-      "oil_pressure": 41.1,
-      "rpm": 2785,
-      "coolant_level": 59.6,
-      "battery_voltage": 12.29,
-      "fuel_efficiency": 8.7,
-      "vibration_level": 3.72,
-      "emission_level": 1.54,
-      "engine_load": 53.4,
-      "intake_pressure": 146.0,
-      "throttle_position": 38.5,
-      "air_fuel_ratio": 11.97
+      "temperature": 89.3,
+      "oil_pressure": 37.3,
+      "rpm": 6602,
+      "coolant_level": 63.5,
+      "battery_voltage": 13.88,
+      "fuel_efficiency": 11.9,
+      "vibration_level": 1.86,
+      "emission_level": 1.59,
+      "engine_load": 90.2,
+      "intake_pressure": 174.3,
+      "throttle_position": 3.9,
+      "air_fuel_ratio": 11.73
     },
     "faults": [
-      "Emission 1.54 > 1.5",
-      "AFR 11.97 out of range (12.0-15.5)"
+      "RPM 6602 > 6500",
+      "Emission 1.59 > 1.5",
+      "Engine load 90.2% > 90%",
+      "AFR 11.73 out of range (12.0-15.5)"
     ]
   },
   {
-    "timestamp": "2025-10-22 12:24:48",
+    "timestamp": "2026-07-02 16:08:54",
     "car_number": "KA01AB1234",
     "sensors": {
-      "temperature": 95.5,
-      "oil_pressure": 32.1,
-      "rpm": 5835,
-      "coolant_level": 66.4,
-      "battery_voltage": 13.09,
-      "fuel_efficiency": 11.1,
-      "vibration_level": 2.26,
-      "emission_level": 1.1,
-      "engine_load": 32.8,
-      "intake_pressure": 178.8,
-      "throttle_position": 74.9,
-      "air_fuel_ratio": 14.83
-    },
-    "faults": []
-  },
-  {
-    "timestamp": "2025-10-22 12:24:50",
-    "car_number": "KA01AB1234",
-    "sensors": {
-      "temperature": 96.6,
-      "oil_pressure": 33.3,
-      "rpm": 4968,
-      "coolant_level": 31.1,
-      "battery_voltage": 15.0,
-      "fuel_efficiency": 10.2,
-      "vibration_level": 1.17,
-      "emission_level": 1.85,
-      "engine_load": 37.3,
+      "temperature": 96.0,
+      "oil_pressure": 22.7,
+      "rpm": 6950,
+      "coolant_level": 32.1,
+      "battery_voltage": 13.43,
+      "fuel_efficiency": 14.2,
+      "vibration_level": 2.54,
+      "emission_level": 1.76,
+      "engine_load": 50.0,
       "intake_pressure": 88.1,
-      "throttle_position": 30.5,
-      "air_fuel_ratio": 14.54
+      "throttle_position": 12.2,
+      "air_fuel_ratio": 11.64
     },
     "faults": [
-      "Battery voltage 15.0V out of range (11.8-14.8V)",
-      "Emission 1.85 > 1.5"
+      "Oil pressure 22.7 PSI < 25 PSI",
+      "RPM 6950 > 6500",
+      "Emission 1.76 > 1.5",
+      "AFR 11.64 out of range (12.0-15.5)"
     ]
   },
   {
-    "timestamp": "2025-10-22 12:24:52",
+    "timestamp": "2026-07-02 16:08:56",
+    "car_number": "KA01AB1234",
+    "sensors": {
+      "temperature": 93.3,
+      "oil_pressure": 54.9,
+      "rpm": 3249,
+      "coolant_level": 54.4,
+      "battery_voltage": 12.71,
+      "fuel_efficiency": 6.5,
+      "vibration_level": 4.37,
+      "emission_level": 0.85,
+      "engine_load": 82.9,
+      "intake_pressure": 106.4,
+      "throttle_position": 41.4,
+      "air_fuel_ratio": 15.47
+    },
+    "faults": [
+      "Fuel efficiency 6.5 km/l < 8.0 km/l"
+    ]
+  },
+  {
+    "timestamp": "2026-07-02 16:08:58",
     "car_number": "KA01AB1234",
     "sensors": {
       "temperature": 86.7,
-      "oil_pressure": 51.4,
-      "rpm": 2169,
-      "coolant_level": 69.4,
-      "battery_voltage": 14.76,
-      "fuel_efficiency": 15.0,
-      "vibration_level": 2.23,
-      "emission_level": 1.45,
-      "engine_load": 78.5,
-      "intake_pressure": 178.4,
-      "throttle_position": 19.6,
-      "air_fuel_ratio": 11.52
-    },
-    "faults": [
-      "AFR 11.52 out of range (12.0-15.5)"
-    ]
-  },
-  {
-    "timestamp": "2025-10-22 12:24:54",
-    "car_number": "KA01AB1234",
-    "sensors": {
-      "temperature": 98.2,
-      "oil_pressure": 35.9,
-      "rpm": 6427,
-      "coolant_level": 79.2,
-      "battery_voltage": 14.39,
-      "fuel_efficiency": 11.9,
-      "vibration_level": 1.36,
-      "emission_level": 1.27,
-      "engine_load": 96.6,
-      "intake_pressure": 156.1,
-      "throttle_position": 15.3,
-      "air_fuel_ratio": 12.67
-    },
-    "faults": [
-      "Engine load 96.6% > 90%"
-    ]
-  },
-  {
-    "timestamp": "2025-10-22 12:24:56",
-    "car_number": "KA01AB1234",
-    "sensors": {
-      "temperature": 97.9,
-      "oil_pressure": 44.8,
-      "rpm": 6606,
-      "coolant_level": 33.4,
-      "battery_voltage": 14.53,
-      "fuel_efficiency": 9.5,
-      "vibration_level": 1.18,
-      "emission_level": 0.83,
-      "engine_load": 99.3,
-      "intake_pressure": 123.0,
-      "throttle_position": 98.2,
-      "air_fuel_ratio": 15.88
-    },
-    "faults": [
-      "RPM 6606 > 6500",
-      "Engine load 99.3% > 90%",
-      "Throttle position 98.2% > 95%",
-      "AFR 15.88 out of range (12.0-15.5)"
-    ]
-  },
-  {
-    "timestamp": "2025-10-22 12:24:58",
-    "car_number": "KA01AB1234",
-    "sensors": {
-      "temperature": 97.9,
-      "oil_pressure": 30.0,
-      "rpm": 5172,
-      "coolant_level": 55.5,
+      "oil_pressure": 54.0,
+      "rpm": 5976,
+      "coolant_level": 33.2,
       "battery_voltage": 12.19,
-      "fuel_efficiency": 9.0,
-      "vibration_level": 3.35,
-      "emission_level": 1.61,
-      "engine_load": 55.2,
-      "intake_pressure": 106.3,
-      "throttle_position": 11.5,
-      "air_fuel_ratio": 13.78
+      "fuel_efficiency": 7.1,
+      "vibration_level": 3.32,
+      "emission_level": 1.12,
+      "engine_load": 57.3,
+      "intake_pressure": 200.2,
+      "throttle_position": 71.3,
+      "air_fuel_ratio": 14.56
     },
     "faults": [
-      "Emission 1.61 > 1.5"
+      "Fuel efficiency 7.1 km/l < 8.0 km/l"
+    ]
+  },
+  {
+    "timestamp": "2026-07-02 16:09:00",
+    "car_number": "KA01AB1234",
+    "sensors": {
+      "temperature": 103.2,
+      "oil_pressure": 35.8,
+      "rpm": 3521,
+      "coolant_level": 83.6,
+      "battery_voltage": 13.53,
+      "fuel_efficiency": 7.5,
+      "vibration_level": 4.06,
+      "emission_level": 1.71,
+      "engine_load": 50.6,
+      "intake_pressure": 220.8,
+      "throttle_position": 38.3,
+      "air_fuel_ratio": 15.72
+    },
+    "faults": [
+      "Fuel efficiency 7.5 km/l < 8.0 km/l",
+      "Emission 1.71 > 1.5",
+      "AFR 15.72 out of range (12.0-15.5)"
+    ]
+  },
+  {
+    "timestamp": "2026-07-02 16:09:02",
+    "car_number": "KA01AB1234",
+    "sensors": {
+      "temperature": 96.0,
+      "oil_pressure": 55.2,
+      "rpm": 3186,
+      "coolant_level": 78.5,
+      "battery_voltage": 14.22,
+      "fuel_efficiency": 9.5,
+      "vibration_level": 2.57,
+      "emission_level": 1.66,
+      "engine_load": 94.7,
+      "intake_pressure": 203.5,
+      "throttle_position": 34.4,
+      "air_fuel_ratio": 11.66
+    },
+    "faults": [
+      "Emission 1.66 > 1.5",
+      "Engine load 94.7% > 90%",
+      "AFR 11.66 out of range (12.0-15.5)"
+    ]
+  },
+  {
+    "timestamp": "2026-07-02 16:09:04",
+    "car_number": "KA01AB1234",
+    "sensors": {
+      "temperature": 94.4,
+      "oil_pressure": 36.8,
+      "rpm": 3860,
+      "coolant_level": 52.3,
+      "battery_voltage": 14.72,
+      "fuel_efficiency": 11.6,
+      "vibration_level": 2.88,
+      "emission_level": 1.63,
+      "engine_load": 57.2,
+      "intake_pressure": 229.2,
+      "throttle_position": 74.5,
+      "air_fuel_ratio": 15.95
+    },
+    "faults": [
+      "Emission 1.63 > 1.5",
+      "AFR 15.95 out of range (12.0-15.5)"
+    ]
+  },
+  {
+    "timestamp": "2026-07-02 16:09:06",
+    "car_number": "KA01AB1234",
+    "sensors": {
+      "temperature": 101.7,
+      "oil_pressure": 23.7,
+      "rpm": 6585,
+      "coolant_level": 65.8,
+      "battery_voltage": 13.66,
+      "fuel_efficiency": 11.3,
+      "vibration_level": 3.91,
+      "emission_level": 1.89,
+      "engine_load": 80.2,
+      "intake_pressure": 238.5,
+      "throttle_position": 12.7,
+      "air_fuel_ratio": 12.99
+    },
+    "faults": [
+      "Oil pressure 23.7 PSI < 25 PSI",
+      "RPM 6585 > 6500",
+      "Emission 1.89 > 1.5"
+    ]
+  },
+  {
+    "timestamp": "2026-07-02 16:09:08",
+    "car_number": "KA01AB1234",
+    "sensors": {
+      "temperature": 88.9,
+      "oil_pressure": 22.6,
+      "rpm": 4087,
+      "coolant_level": 67.4,
+      "battery_voltage": 12.29,
+      "fuel_efficiency": 14.9,
+      "vibration_level": 1.76,
+      "emission_level": 0.97,
+      "engine_load": 27.5,
+      "intake_pressure": 177.1,
+      "throttle_position": 28.9,
+      "air_fuel_ratio": 13.52
+    },
+    "faults": [
+      "Oil pressure 22.6 PSI < 25 PSI"
+    ]
+  },
+  {
+    "timestamp": "2026-07-02 16:09:10",
+    "car_number": "KA01AB1234",
+    "sensors": {
+      "temperature": 87.4,
+      "oil_pressure": 59.6,
+      "rpm": 2212,
+      "coolant_level": 49.6,
+      "battery_voltage": 14.24,
+      "fuel_efficiency": 10.5,
+      "vibration_level": 2.68,
+      "emission_level": 1.19,
+      "engine_load": 83.4,
+      "intake_pressure": 175.4,
+      "throttle_position": 93.6,
+      "air_fuel_ratio": 11.81
+    },
+    "faults": [
+      "AFR 11.81 out of range (12.0-15.5)"
+    ]
+  },
+  {
+    "timestamp": "2026-07-02 16:13:05",
+    "car_number": "KA01AB1234",
+    "sensors": {
+      "temperature": 96.4,
+      "oil_pressure": 46.8,
+      "rpm": 1311,
+      "coolant_level": 39.9,
+      "battery_voltage": 13.46,
+      "fuel_efficiency": 9.7,
+      "vibration_level": 1.67,
+      "emission_level": 1.24,
+      "engine_load": 36.7,
+      "intake_pressure": 180.1,
+      "throttle_position": 94.5,
+      "air_fuel_ratio": 11.56
+    },
+    "faults": [
+      "AFR 11.56 out of range (12.0-15.5)"
+    ]
+  },
+  {
+    "timestamp": "2026-07-02 16:13:07",
+    "car_number": "KA01AB1234",
+    "sensors": {
+      "temperature": 104.2,
+      "oil_pressure": 48.7,
+      "rpm": 4595,
+      "coolant_level": 46.3,
+      "battery_voltage": 13.67,
+      "fuel_efficiency": 7.9,
+      "vibration_level": 4.99,
+      "emission_level": 1.06,
+      "engine_load": 68.2,
+      "intake_pressure": 187.0,
+      "throttle_position": 36.1,
+      "air_fuel_ratio": 12.8
+    },
+    "faults": [
+      "Fuel efficiency 7.9 km/l < 8.0 km/l"
+    ]
+  },
+  {
+    "timestamp": "2026-07-02 16:13:09",
+    "car_number": "KA01AB1234",
+    "sensors": {
+      "temperature": 102.5,
+      "oil_pressure": 35.2,
+      "rpm": 3888,
+      "coolant_level": 46.2,
+      "battery_voltage": 14.13,
+      "fuel_efficiency": 13.6,
+      "vibration_level": 3.71,
+      "emission_level": 1.83,
+      "engine_load": 21.9,
+      "intake_pressure": 245.0,
+      "throttle_position": 90.5,
+      "air_fuel_ratio": 14.62
+    },
+    "faults": [
+      "Emission 1.83 > 1.5"
+    ]
+  },
+  {
+    "timestamp": "2026-07-02 16:13:11",
+    "car_number": "KA01AB1234",
+    "sensors": {
+      "temperature": 94.3,
+      "oil_pressure": 41.4,
+      "rpm": 4928,
+      "coolant_level": 63.2,
+      "battery_voltage": 13.96,
+      "fuel_efficiency": 7.7,
+      "vibration_level": 4.18,
+      "emission_level": 1.82,
+      "engine_load": 91.1,
+      "intake_pressure": 235.8,
+      "throttle_position": 1.8,
+      "air_fuel_ratio": 13.68
+    },
+    "faults": [
+      "Fuel efficiency 7.7 km/l < 8.0 km/l",
+      "Emission 1.82 > 1.5",
+      "Engine load 91.1% > 90%"
+    ]
+  },
+  {
+    "timestamp": "2026-07-02 16:13:13",
+    "car_number": "KA01AB1234",
+    "sensors": {
+      "temperature": 100.1,
+      "oil_pressure": 48.1,
+      "rpm": 1399,
+      "coolant_level": 45.8,
+      "battery_voltage": 13.98,
+      "fuel_efficiency": 6.2,
+      "vibration_level": 5.02,
+      "emission_level": 1.19,
+      "engine_load": 99.8,
+      "intake_pressure": 155.1,
+      "throttle_position": 9.0,
+      "air_fuel_ratio": 14.55
+    },
+    "faults": [
+      "Fuel efficiency 6.2 km/l < 8.0 km/l",
+      "Vibration 5.02 > 5.0",
+      "Engine load 99.8% > 90%"
+    ]
+  },
+  {
+    "timestamp": "2026-07-02 16:13:15",
+    "car_number": "KA01AB1234",
+    "sensors": {
+      "temperature": 89.1,
+      "oil_pressure": 38.3,
+      "rpm": 4261,
+      "coolant_level": 70.5,
+      "battery_voltage": 12.7,
+      "fuel_efficiency": 14.8,
+      "vibration_level": 5.34,
+      "emission_level": 0.87,
+      "engine_load": 88.5,
+      "intake_pressure": 160.7,
+      "throttle_position": 98.8,
+      "air_fuel_ratio": 15.71
+    },
+    "faults": [
+      "Vibration 5.34 > 5.0",
+      "Throttle position 98.8% > 95%",
+      "AFR 15.71 out of range (12.0-15.5)"
+    ]
+  },
+  {
+    "timestamp": "2026-07-02 16:13:17",
+    "car_number": "KA01AB1234",
+    "sensors": {
+      "temperature": 87.1,
+      "oil_pressure": 47.5,
+      "rpm": 2779,
+      "coolant_level": 67.4,
+      "battery_voltage": 12.82,
+      "fuel_efficiency": 9.9,
+      "vibration_level": 1.23,
+      "emission_level": 1.17,
+      "engine_load": 49.1,
+      "intake_pressure": 241.9,
+      "throttle_position": 29.5,
+      "air_fuel_ratio": 15.67
+    },
+    "faults": [
+      "AFR 15.67 out of range (12.0-15.5)"
+    ]
+  },
+  {
+    "timestamp": "2026-07-02 16:13:19",
+    "car_number": "KA01AB1234",
+    "sensors": {
+      "temperature": 102.7,
+      "oil_pressure": 44.8,
+      "rpm": 5564,
+      "coolant_level": 58.7,
+      "battery_voltage": 14.43,
+      "fuel_efficiency": 10.7,
+      "vibration_level": 1.42,
+      "emission_level": 1.19,
+      "engine_load": 94.8,
+      "intake_pressure": 226.7,
+      "throttle_position": 27.4,
+      "air_fuel_ratio": 13.88
+    },
+    "faults": [
+      "Engine load 94.8% > 90%"
+    ]
+  },
+  {
+    "timestamp": "2026-07-02 16:13:21",
+    "car_number": "KA01AB1234",
+    "sensors": {
+      "temperature": 89.8,
+      "oil_pressure": 47.4,
+      "rpm": 3495,
+      "coolant_level": 72.3,
+      "battery_voltage": 14.04,
+      "fuel_efficiency": 12.1,
+      "vibration_level": 2.11,
+      "emission_level": 1.98,
+      "engine_load": 42.3,
+      "intake_pressure": 204.6,
+      "throttle_position": 5.3,
+      "air_fuel_ratio": 11.78
+    },
+    "faults": [
+      "Emission 1.98 > 1.5",
+      "AFR 11.78 out of range (12.0-15.5)"
+    ]
+  },
+  {
+    "timestamp": "2026-07-02 16:18:13",
+    "car_number": "KA01AB1234",
+    "sensors": {
+      "temperature": 102.5,
+      "oil_pressure": 36.0,
+      "rpm": 2677,
+      "coolant_level": 95.7,
+      "battery_voltage": 14.11,
+      "fuel_efficiency": 14.3,
+      "vibration_level": 3.38,
+      "emission_level": 1.1,
+      "engine_load": 97.4,
+      "intake_pressure": 91.3,
+      "throttle_position": 49.0,
+      "air_fuel_ratio": 13.44
+    },
+    "faults": [
+      "Engine load 97.4% > 90%"
+    ]
+  },
+  {
+    "timestamp": "2026-07-02 16:18:14",
+    "car_number": "KA01AB1234",
+    "sensors": {
+      "temperature": 90.7,
+      "oil_pressure": 25.1,
+      "rpm": 5194,
+      "coolant_level": 71.7,
+      "battery_voltage": 12.34,
+      "fuel_efficiency": 8.0,
+      "vibration_level": 4.77,
+      "emission_level": 1.98,
+      "engine_load": 61.8,
+      "intake_pressure": 135.7,
+      "throttle_position": 9.8,
+      "air_fuel_ratio": 11.93
+    },
+    "faults": [
+      "Emission 1.98 > 1.5",
+      "AFR 11.93 out of range (12.0-15.5)"
+    ]
+  },
+  {
+    "timestamp": "2026-07-02 16:18:15",
+    "car_number": "KA01AB1234",
+    "sensors": {
+      "temperature": 89.1,
+      "oil_pressure": 29.1,
+      "rpm": 2697,
+      "coolant_level": 46.2,
+      "battery_voltage": 14.25,
+      "fuel_efficiency": 12.8,
+      "vibration_level": 5.26,
+      "emission_level": 1.57,
+      "engine_load": 61.3,
+      "intake_pressure": 96.8,
+      "throttle_position": 96.8,
+      "air_fuel_ratio": 13.49
+    },
+    "faults": [
+      "Vibration 5.26 > 5.0",
+      "Emission 1.57 > 1.5",
+      "Throttle position 96.8% > 95%"
+    ]
+  },
+  {
+    "timestamp": "2026-07-02 16:18:16",
+    "car_number": "KA01AB1234",
+    "sensors": {
+      "temperature": 85.0,
+      "oil_pressure": 45.3,
+      "rpm": 5481,
+      "coolant_level": 91.4,
+      "battery_voltage": 13.99,
+      "fuel_efficiency": 13.3,
+      "vibration_level": 5.39,
+      "emission_level": 1.48,
+      "engine_load": 87.6,
+      "intake_pressure": 166.1,
+      "throttle_position": 0.8,
+      "air_fuel_ratio": 12.64
+    },
+    "faults": [
+      "Vibration 5.39 > 5.0"
+    ]
+  },
+  {
+    "timestamp": "2026-07-02 16:18:17",
+    "car_number": "KA01AB1234",
+    "sensors": {
+      "temperature": 92.6,
+      "oil_pressure": 22.7,
+      "rpm": 5932,
+      "coolant_level": 94.6,
+      "battery_voltage": 13.22,
+      "fuel_efficiency": 9.7,
+      "vibration_level": 4.98,
+      "emission_level": 1.85,
+      "engine_load": 98.2,
+      "intake_pressure": 224.1,
+      "throttle_position": 23.4,
+      "air_fuel_ratio": 11.53
+    },
+    "faults": [
+      "Oil pressure 22.7 PSI < 25 PSI",
+      "Emission 1.85 > 1.5",
+      "Engine load 98.2% > 90%",
+      "AFR 11.53 out of range (12.0-15.5)"
+    ]
+  },
+  {
+    "timestamp": "2026-07-02 16:18:18",
+    "car_number": "KA01AB1234",
+    "sensors": {
+      "temperature": 102.4,
+      "oil_pressure": 48.1,
+      "rpm": 3849,
+      "coolant_level": 32.1,
+      "battery_voltage": 12.9,
+      "fuel_efficiency": 12.7,
+      "vibration_level": 4.75,
+      "emission_level": 1.08,
+      "engine_load": 75.8,
+      "intake_pressure": 94.2,
+      "throttle_position": 60.3,
+      "air_fuel_ratio": 15.25
+    },
+    "faults": []
+  },
+  {
+    "timestamp": "2026-07-02 16:18:19",
+    "car_number": "KA01AB1234",
+    "sensors": {
+      "temperature": 95.4,
+      "oil_pressure": 56.8,
+      "rpm": 1434,
+      "coolant_level": 63.0,
+      "battery_voltage": 13.37,
+      "fuel_efficiency": 7.9,
+      "vibration_level": 5.5,
+      "emission_level": 0.82,
+      "engine_load": 50.6,
+      "intake_pressure": 103.3,
+      "throttle_position": 30.8,
+      "air_fuel_ratio": 13.16
+    },
+    "faults": [
+      "Fuel efficiency 7.9 km/l < 8.0 km/l",
+      "Vibration 5.5 > 5.0"
+    ]
+  },
+  {
+    "timestamp": "2026-07-02 16:18:20",
+    "car_number": "KA01AB1234",
+    "sensors": {
+      "temperature": 91.1,
+      "oil_pressure": 28.1,
+      "rpm": 6998,
+      "coolant_level": 56.0,
+      "battery_voltage": 13.07,
+      "fuel_efficiency": 6.9,
+      "vibration_level": 3.58,
+      "emission_level": 1.81,
+      "engine_load": 42.4,
+      "intake_pressure": 140.2,
+      "throttle_position": 29.4,
+      "air_fuel_ratio": 15.63
+    },
+    "faults": [
+      "RPM 6998 > 6500",
+      "Fuel efficiency 6.9 km/l < 8.0 km/l",
+      "Emission 1.81 > 1.5",
+      "AFR 15.63 out of range (12.0-15.5)"
+    ]
+  },
+  {
+    "timestamp": "2026-07-02 16:18:21",
+    "car_number": "KA01AB1234",
+    "sensors": {
+      "temperature": 97.0,
+      "oil_pressure": 56.5,
+      "rpm": 5823,
+      "coolant_level": 30.7,
+      "battery_voltage": 12.25,
+      "fuel_efficiency": 10.1,
+      "vibration_level": 1.25,
+      "emission_level": 1.84,
+      "engine_load": 50.3,
+      "intake_pressure": 164.0,
+      "throttle_position": 94.0,
+      "air_fuel_ratio": 13.91
+    },
+    "faults": [
+      "Emission 1.84 > 1.5"
+    ]
+  },
+  {
+    "timestamp": "2026-07-02 16:18:22",
+    "car_number": "KA01AB1234",
+    "sensors": {
+      "temperature": 86.1,
+      "oil_pressure": 39.2,
+      "rpm": 4584,
+      "coolant_level": 94.5,
+      "battery_voltage": 14.01,
+      "fuel_efficiency": 10.1,
+      "vibration_level": 4.15,
+      "emission_level": 1.08,
+      "engine_load": 60.9,
+      "intake_pressure": 226.5,
+      "throttle_position": 42.4,
+      "air_fuel_ratio": 14.79
+    },
+    "faults": []
+  },
+  {
+    "timestamp": "2026-07-02 16:18:23",
+    "car_number": "KA01AB1234",
+    "sensors": {
+      "temperature": 96.3,
+      "oil_pressure": 25.7,
+      "rpm": 1829,
+      "coolant_level": 64.9,
+      "battery_voltage": 13.38,
+      "fuel_efficiency": 13.2,
+      "vibration_level": 1.89,
+      "emission_level": 1.87,
+      "engine_load": 86.0,
+      "intake_pressure": 186.9,
+      "throttle_position": 83.3,
+      "air_fuel_ratio": 15.74
+    },
+    "faults": [
+      "Emission 1.87 > 1.5",
+      "AFR 15.74 out of range (12.0-15.5)"
+    ]
+  },
+  {
+    "timestamp": "2026-07-02 16:18:24",
+    "car_number": "KA01AB1234",
+    "sensors": {
+      "temperature": 95.1,
+      "oil_pressure": 33.4,
+      "rpm": 1546,
+      "coolant_level": 50.3,
+      "battery_voltage": 14.14,
+      "fuel_efficiency": 14.7,
+      "vibration_level": 4.13,
+      "emission_level": 1.32,
+      "engine_load": 88.0,
+      "intake_pressure": 116.4,
+      "throttle_position": 75.9,
+      "air_fuel_ratio": 12.62
+    },
+    "faults": []
+  },
+  {
+    "timestamp": "2026-07-02 16:18:25",
+    "car_number": "KA01AB1234",
+    "sensors": {
+      "temperature": 87.2,
+      "oil_pressure": 38.0,
+      "rpm": 4927,
+      "coolant_level": 50.7,
+      "battery_voltage": 14.65,
+      "fuel_efficiency": 8.7,
+      "vibration_level": 5.49,
+      "emission_level": 1.08,
+      "engine_load": 69.0,
+      "intake_pressure": 220.3,
+      "throttle_position": 27.1,
+      "air_fuel_ratio": 13.96
+    },
+    "faults": [
+      "Vibration 5.49 > 5.0"
+    ]
+  },
+  {
+    "timestamp": "2026-07-02 16:18:26",
+    "car_number": "KA01AB1234",
+    "sensors": {
+      "temperature": 97.2,
+      "oil_pressure": 50.1,
+      "rpm": 1971,
+      "coolant_level": 89.7,
+      "battery_voltage": 14.41,
+      "fuel_efficiency": 6.3,
+      "vibration_level": 2.78,
+      "emission_level": 1.35,
+      "engine_load": 35.5,
+      "intake_pressure": 183.0,
+      "throttle_position": 88.8,
+      "air_fuel_ratio": 13.48
+    },
+    "faults": [
+      "Fuel efficiency 6.3 km/l < 8.0 km/l"
+    ]
+  },
+  {
+    "timestamp": "2026-07-02 16:18:27",
+    "car_number": "KA01AB1234",
+    "sensors": {
+      "temperature": 86.4,
+      "oil_pressure": 26.4,
+      "rpm": 4784,
+      "coolant_level": 82.2,
+      "battery_voltage": 12.53,
+      "fuel_efficiency": 12.5,
+      "vibration_level": 1.79,
+      "emission_level": 1.57,
+      "engine_load": 70.9,
+      "intake_pressure": 137.0,
+      "throttle_position": 37.7,
+      "air_fuel_ratio": 15.13
+    },
+    "faults": [
+      "Emission 1.57 > 1.5"
+    ]
+  },
+  {
+    "timestamp": "2026-07-02 16:18:28",
+    "car_number": "KA01AB1234",
+    "sensors": {
+      "temperature": 92.9,
+      "oil_pressure": 55.6,
+      "rpm": 4816,
+      "coolant_level": 77.1,
+      "battery_voltage": 13.73,
+      "fuel_efficiency": 12.6,
+      "vibration_level": 1.8,
+      "emission_level": 1.18,
+      "engine_load": 46.1,
+      "intake_pressure": 245.5,
+      "throttle_position": 21.3,
+      "air_fuel_ratio": 11.85
+    },
+    "faults": [
+      "AFR 11.85 out of range (12.0-15.5)"
+    ]
+  },
+  {
+    "timestamp": "2026-07-02 16:18:29",
+    "car_number": "KA01AB1234",
+    "sensors": {
+      "temperature": 97.0,
+      "oil_pressure": 44.2,
+      "rpm": 5143,
+      "coolant_level": 32.4,
+      "battery_voltage": 12.66,
+      "fuel_efficiency": 12.7,
+      "vibration_level": 3.15,
+      "emission_level": 1.1,
+      "engine_load": 93.1,
+      "intake_pressure": 231.8,
+      "throttle_position": 36.0,
+      "air_fuel_ratio": 13.87
+    },
+    "faults": [
+      "Engine load 93.1% > 90%"
+    ]
+  },
+  {
+    "timestamp": "2026-07-02 16:18:30",
+    "car_number": "KA01AB1234",
+    "sensors": {
+      "temperature": 99.7,
+      "oil_pressure": 28.5,
+      "rpm": 3777,
+      "coolant_level": 41.1,
+      "battery_voltage": 13.93,
+      "fuel_efficiency": 12.4,
+      "vibration_level": 5.63,
+      "emission_level": 1.3,
+      "engine_load": 46.7,
+      "intake_pressure": 81.1,
+      "throttle_position": 75.9,
+      "air_fuel_ratio": 12.45
+    },
+    "faults": [
+      "Vibration 5.63 > 5.0"
+    ]
+  },
+  {
+    "timestamp": "2026-07-02 16:18:31",
+    "car_number": "KA01AB1234",
+    "sensors": {
+      "temperature": 97.6,
+      "oil_pressure": 55.5,
+      "rpm": 6103,
+      "coolant_level": 49.1,
+      "battery_voltage": 13.84,
+      "fuel_efficiency": 9.2,
+      "vibration_level": 1.78,
+      "emission_level": 1.62,
+      "engine_load": 72.1,
+      "intake_pressure": 98.4,
+      "throttle_position": 86.4,
+      "air_fuel_ratio": 15.2
+    },
+    "faults": [
+      "Emission 1.62 > 1.5"
+    ]
+  },
+  {
+    "timestamp": "2026-07-02 16:18:32",
+    "car_number": "KA01AB1234",
+    "sensors": {
+      "temperature": 85.5,
+      "oil_pressure": 51.0,
+      "rpm": 2637,
+      "coolant_level": 56.5,
+      "battery_voltage": 12.68,
+      "fuel_efficiency": 13.8,
+      "vibration_level": 2.26,
+      "emission_level": 1.54,
+      "engine_load": 91.2,
+      "intake_pressure": 147.8,
+      "throttle_position": 81.5,
+      "air_fuel_ratio": 15.64
+    },
+    "faults": [
+      "Emission 1.54 > 1.5",
+      "Engine load 91.2% > 90%",
+      "AFR 15.64 out of range (12.0-15.5)"
+    ]
+  },
+  {
+    "timestamp": "2026-07-02 16:18:33",
+    "car_number": "KA01AB1234",
+    "sensors": {
+      "temperature": 102.3,
+      "oil_pressure": 53.4,
+      "rpm": 4941,
+      "coolant_level": 93.1,
+      "battery_voltage": 14.01,
+      "fuel_efficiency": 7.8,
+      "vibration_level": 3.93,
+      "emission_level": 1.29,
+      "engine_load": 41.7,
+      "intake_pressure": 180.8,
+      "throttle_position": 56.9,
+      "air_fuel_ratio": 14.7
+    },
+    "faults": [
+      "Fuel efficiency 7.8 km/l < 8.0 km/l"
+    ]
+  },
+  {
+    "timestamp": "2026-07-02 16:18:34",
+    "car_number": "KA01AB1234",
+    "sensors": {
+      "temperature": 94.3,
+      "oil_pressure": 43.0,
+      "rpm": 2742,
+      "coolant_level": 30.3,
+      "battery_voltage": 14.02,
+      "fuel_efficiency": 8.9,
+      "vibration_level": 3.93,
+      "emission_level": 1.93,
+      "engine_load": 24.0,
+      "intake_pressure": 222.7,
+      "throttle_position": 58.4,
+      "air_fuel_ratio": 15.28
+    },
+    "faults": [
+      "Emission 1.93 > 1.5"
+    ]
+  },
+  {
+    "timestamp": "2026-07-02 16:18:35",
+    "car_number": "KA01AB1234",
+    "sensors": {
+      "temperature": 101.7,
+      "oil_pressure": 24.8,
+      "rpm": 3762,
+      "coolant_level": 46.4,
+      "battery_voltage": 14.9,
+      "fuel_efficiency": 10.3,
+      "vibration_level": 3.01,
+      "emission_level": 1.14,
+      "engine_load": 65.1,
+      "intake_pressure": 131.5,
+      "throttle_position": 22.2,
+      "air_fuel_ratio": 15.27
+    },
+    "faults": [
+      "Oil pressure 24.8 PSI < 25 PSI",
+      "Battery voltage 14.9V out of range (11.8-14.8V)"
+    ]
+  },
+  {
+    "timestamp": "2026-07-02 16:18:36",
+    "car_number": "KA01AB1234",
+    "sensors": {
+      "temperature": 97.8,
+      "oil_pressure": 37.0,
+      "rpm": 6164,
+      "coolant_level": 41.7,
+      "battery_voltage": 14.3,
+      "fuel_efficiency": 14.3,
+      "vibration_level": 2.87,
+      "emission_level": 1.3,
+      "engine_load": 90.8,
+      "intake_pressure": 172.5,
+      "throttle_position": 90.3,
+      "air_fuel_ratio": 13.91
+    },
+    "faults": [
+      "Engine load 90.8% > 90%"
+    ]
+  },
+  {
+    "timestamp": "2026-07-02 16:18:37",
+    "car_number": "KA01AB1234",
+    "sensors": {
+      "temperature": 92.4,
+      "oil_pressure": 52.6,
+      "rpm": 1186,
+      "coolant_level": 95.4,
+      "battery_voltage": 13.92,
+      "fuel_efficiency": 8.6,
+      "vibration_level": 4.67,
+      "emission_level": 1.95,
+      "engine_load": 49.9,
+      "intake_pressure": 231.4,
+      "throttle_position": 91.0,
+      "air_fuel_ratio": 14.31
+    },
+    "faults": [
+      "Emission 1.95 > 1.5"
+    ]
+  },
+  {
+    "timestamp": "2026-07-02 16:18:38",
+    "car_number": "KA01AB1234",
+    "sensors": {
+      "temperature": 97.6,
+      "oil_pressure": 23.3,
+      "rpm": 4346,
+      "coolant_level": 70.6,
+      "battery_voltage": 12.85,
+      "fuel_efficiency": 8.9,
+      "vibration_level": 2.16,
+      "emission_level": 1.97,
+      "engine_load": 38.5,
+      "intake_pressure": 86.7,
+      "throttle_position": 18.4,
+      "air_fuel_ratio": 12.69
+    },
+    "faults": [
+      "Oil pressure 23.3 PSI < 25 PSI",
+      "Emission 1.97 > 1.5"
+    ]
+  },
+  {
+    "timestamp": "2026-07-02 16:18:39",
+    "car_number": "KA01AB1234",
+    "sensors": {
+      "temperature": 102.1,
+      "oil_pressure": 47.1,
+      "rpm": 2582,
+      "coolant_level": 41.2,
+      "battery_voltage": 14.95,
+      "fuel_efficiency": 14.7,
+      "vibration_level": 4.34,
+      "emission_level": 1.31,
+      "engine_load": 63.5,
+      "intake_pressure": 174.8,
+      "throttle_position": 36.3,
+      "air_fuel_ratio": 15.66
+    },
+    "faults": [
+      "Battery voltage 14.95V out of range (11.8-14.8V)",
+      "AFR 15.66 out of range (12.0-15.5)"
+    ]
+  },
+  {
+    "timestamp": "2026-07-02 16:18:40",
+    "car_number": "KA01AB1234",
+    "sensors": {
+      "temperature": 101.2,
+      "oil_pressure": 43.4,
+      "rpm": 1888,
+      "coolant_level": 79.3,
+      "battery_voltage": 12.06,
+      "fuel_efficiency": 9.2,
+      "vibration_level": 3.79,
+      "emission_level": 0.86,
+      "engine_load": 62.9,
+      "intake_pressure": 206.3,
+      "throttle_position": 87.2,
+      "air_fuel_ratio": 15.94
+    },
+    "faults": [
+      "AFR 15.94 out of range (12.0-15.5)"
+    ]
+  },
+  {
+    "timestamp": "2026-07-02 16:19:26",
+    "car_number": "KA05CD5678",
+    "sensors": {
+      "temperature": 95.0,
+      "oil_pressure": 43.1,
+      "rpm": 3752,
+      "coolant_level": 53.8,
+      "battery_voltage": 13.54,
+      "fuel_efficiency": 9.0,
+      "vibration_level": 5.05,
+      "emission_level": 2.01,
+      "engine_load": 62.5,
+      "intake_pressure": 117.8,
+      "throttle_position": 56.1,
+      "air_fuel_ratio": 11.69
+    },
+    "faults": [
+      "Emission 2.01 > 1.6",
+      "AFR 11.69 out of range (11.8-15.2)"
+    ]
+  },
+  {
+    "timestamp": "2026-07-02 16:19:28",
+    "car_number": "KA09EF9101",
+    "sensors": {
+      "temperature": 100.6,
+      "oil_pressure": 60.1,
+      "rpm": 8099,
+      "coolant_level": 87.3,
+      "battery_voltage": 13.08,
+      "fuel_efficiency": 7.8,
+      "vibration_level": 6.55,
+      "emission_level": 1.73,
+      "engine_load": 60.7,
+      "intake_pressure": 105.0,
+      "throttle_position": 34.5,
+      "air_fuel_ratio": 13.83
+    },
+    "faults": [
+      "Vibration 6.55 > 6.0",
+      "Emission 1.73 > 1.3"
+    ]
+  },
+  {
+    "timestamp": "2026-07-02 16:19:29",
+    "car_number": "KA03GH4567",
+    "sensors": {
+      "temperature": 95.0,
+      "oil_pressure": 55.6,
+      "rpm": 3514,
+      "coolant_level": 80.1,
+      "battery_voltage": 14.62,
+      "fuel_efficiency": 7.5,
+      "vibration_level": 4.44,
+      "emission_level": 1.04,
+      "engine_load": 28.1,
+      "intake_pressure": 250.4,
+      "throttle_position": 24.6,
+      "air_fuel_ratio": 14.45
+    },
+    "faults": []
+  },
+  {
+    "timestamp": "2026-07-02 16:19:30",
+    "car_number": "KA02JK2468",
+    "sensors": {
+      "temperature": 106.6,
+      "oil_pressure": 36.5,
+      "rpm": 2601,
+      "coolant_level": 58.6,
+      "battery_voltage": 12.98,
+      "fuel_efficiency": 6.6,
+      "vibration_level": 3.83,
+      "emission_level": 1.19,
+      "engine_load": 20.0,
+      "intake_pressure": 251.5,
+      "throttle_position": 37.0,
+      "air_fuel_ratio": 12.76
+    },
+    "faults": [
+      "Intake pressure 251.5 > 250"
     ]
   }
 ]

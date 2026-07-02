@@ -1,14 +1,72 @@
-=== Engine Monitor Log ===
-[22-10-2025 12:23:36] ACTION: Started monitoring cycle.[22-10-2025 12:23:38] FAULT: Fault(s) detected for KA01AB1234: 2 issues logged.[22-10-2025 12:23:40] FAULT: Fault(s) detected for KA01AB1234: 1 issues logged.[22-10-2025 12:23:41] ACTION: Changed interval of measurement.[22-10-2025 12:23:42] FAULT: Fault(s) detected for KA01AB1234: 2 issues logged.[22-10-2025 12:23:43] FAULT: Fault(s) detected for KA01AB1234: 2 issues logged.[22-10-2025 12:23:44] SYSTEM OK: Cycle completed for KA01AB1234. No faults detected.[22-10-2025 12:23:45] FAULT: Fault(s) detected for KA01AB1234: 3 issues logged.[22-10-2025 12:23:45] ACTION: Switched to next car.[22-10-2025 12:23:46] FAULT: Fault(s) detected for KA05CD5678: 1 issues logged.[22-10-2025 12:23:47] FAULT: Fault(s) detected for KA05CD5678: 2 issues logged.[22-10-2025 12:23:48] SYSTEM OK: Cycle completed for KA05CD5678. No faults detected.[22-10-2025 12:23:49] SYSTEM OK: Cycle completed for KA05CD5678. No faults detected.[22-10-2025 12:23:50] FAULT: Fault(s) detected for KA05CD5678: 1 issues logged.[22-10-2025 12:23:51] FAULT: Fault(s) detected for KA05CD5678: 1 issues logged.[22-10-2025 12:23:52] SYSTEM OK: Cycle completed for KA05CD5678. No faults detected.[22-10-2025 12:23:53] FAULT: Fault(s) detected for KA05CD5678: 1 issues logged.[22-10-2025 12:23:54] SYSTEM OK: Cycle completed for KA05CD5678. No faults detected.[22-10-2025 12:23:55] FAULT: Fault(s) detected for KA05CD5678: 2 issues logged.[22-10-2025 12:23:56] FAULT: Fault(s) detected for KA05CD5678: 1 issues logged.[22-10-2025 12:23:56] ACTION: Paused monitoring cycle.[22-10-2025 12:24:36] ACTION: Started monitoring cycle.
-[22-10-2025 12:24:38] FAULT: Fault(s) detected for KA01AB1234: 2 issues logged.
-[22-10-2025 12:24:40] FAULT: Fault(s) detected for KA01AB1234: 3 issues logged.
-[22-10-2025 12:24:42] SYSTEM OK: Cycle completed for KA01AB1234. No faults detected.
-[22-10-2025 12:24:44] FAULT: Fault(s) detected for KA01AB1234: 2 issues logged.
-[22-10-2025 12:24:46] FAULT: Fault(s) detected for KA01AB1234: 2 issues logged.
-[22-10-2025 12:24:48] SYSTEM OK: Cycle completed for KA01AB1234. No faults detected.
-[22-10-2025 12:24:50] FAULT: Fault(s) detected for KA01AB1234: 2 issues logged.
-[22-10-2025 12:24:52] FAULT: Fault(s) detected for KA01AB1234: 1 issues logged.
-[22-10-2025 12:24:54] FAULT: Fault(s) detected for KA01AB1234: 1 issues logged.
-[22-10-2025 12:24:56] FAULT: Fault(s) detected for KA01AB1234: 4 issues logged.
-[22-10-2025 12:24:58] FAULT: Fault(s) detected for KA01AB1234: 1 issues logged.
-[22-10-2025 12:24:59] ACTION: Paused monitoring cycle.
+[02-07-2026 16:07:12] ACTION: Started monitoring cycle.
+[02-07-2026 16:07:14] FAULT: Fault(s) detected for KA01AB1234: 1 issues logged.
+[02-07-2026 16:07:16] SYSTEM OK: Cycle completed for KA01AB1234. No faults detected.
+[02-07-2026 16:07:18] FAULT: Fault(s) detected for KA01AB1234: 4 issues logged.
+[02-07-2026 16:07:20] FAULT: Fault(s) detected for KA01AB1234: 3 issues logged.
+[02-07-2026 16:07:43] ACTION: Started monitoring cycle.
+[02-07-2026 16:07:45] FAULT: Fault(s) detected for KA01AB1234: 1 issues logged.
+[02-07-2026 16:07:47] FAULT: Fault(s) detected for KA01AB1234: 3 issues logged.
+[02-07-2026 16:07:49] FAULT: Fault(s) detected for KA01AB1234: 2 issues logged.
+[02-07-2026 16:07:51] FAULT: Fault(s) detected for KA01AB1234: 3 issues logged.
+[02-07-2026 16:07:53] SYSTEM OK: Cycle completed for KA01AB1234. No faults detected.
+[02-07-2026 16:08:48] ACTION: Started monitoring cycle.
+[02-07-2026 16:08:50] FAULT: Fault(s) detected for KA01AB1234: 1 issues logged.
+[02-07-2026 16:08:52] FAULT: Fault(s) detected for KA01AB1234: 4 issues logged.
+[02-07-2026 16:08:54] FAULT: Fault(s) detected for KA01AB1234: 4 issues logged.
+[02-07-2026 16:08:56] FAULT: Fault(s) detected for KA01AB1234: 1 issues logged.
+[02-07-2026 16:08:58] FAULT: Fault(s) detected for KA01AB1234: 1 issues logged.
+[02-07-2026 16:09:00] FAULT: Fault(s) detected for KA01AB1234: 3 issues logged.
+[02-07-2026 16:09:02] FAULT: Fault(s) detected for KA01AB1234: 3 issues logged.
+[02-07-2026 16:09:04] FAULT: Fault(s) detected for KA01AB1234: 2 issues logged.
+[02-07-2026 16:09:06] FAULT: Fault(s) detected for KA01AB1234: 3 issues logged.
+[02-07-2026 16:09:08] FAULT: Fault(s) detected for KA01AB1234: 1 issues logged.
+[02-07-2026 16:09:10] FAULT: Fault(s) detected for KA01AB1234: 1 issues logged.
+[02-07-2026 16:13:03] ACTION: Started monitoring cycle.
+[02-07-2026 16:13:05] FAULT: Fault(s) detected for KA01AB1234: 1 issues logged.
+[02-07-2026 16:13:07] FAULT: Fault(s) detected for KA01AB1234: 1 issues logged.
+[02-07-2026 16:13:09] FAULT: Fault(s) detected for KA01AB1234: 1 issues logged.
+[02-07-2026 16:13:11] FAULT: Fault(s) detected for KA01AB1234: 3 issues logged.
+[02-07-2026 16:13:13] FAULT: Fault(s) detected for KA01AB1234: 3 issues logged.
+[02-07-2026 16:13:15] FAULT: Fault(s) detected for KA01AB1234: 3 issues logged.
+[02-07-2026 16:13:17] FAULT: Fault(s) detected for KA01AB1234: 1 issues logged.
+[02-07-2026 16:13:19] FAULT: Fault(s) detected for KA01AB1234: 1 issues logged.
+[02-07-2026 16:13:21] FAULT: Fault(s) detected for KA01AB1234: 2 issues logged.
+[02-07-2026 16:18:09] ACTION: Changed interval of measurement.
+[02-07-2026 16:18:12] ACTION: Started monitoring cycle.
+[02-07-2026 16:18:13] FAULT: Fault(s) detected for KA01AB1234: 1 issues logged.
+[02-07-2026 16:18:14] FAULT: Fault(s) detected for KA01AB1234: 2 issues logged.
+[02-07-2026 16:18:15] FAULT: Fault(s) detected for KA01AB1234: 3 issues logged.
+[02-07-2026 16:18:16] FAULT: Fault(s) detected for KA01AB1234: 1 issues logged.
+[02-07-2026 16:18:17] FAULT: Fault(s) detected for KA01AB1234: 4 issues logged.
+[02-07-2026 16:18:18] SYSTEM OK: Cycle completed for KA01AB1234. No faults detected.
+[02-07-2026 16:18:19] FAULT: Fault(s) detected for KA01AB1234: 2 issues logged.
+[02-07-2026 16:18:20] FAULT: Fault(s) detected for KA01AB1234: 4 issues logged.
+[02-07-2026 16:18:21] FAULT: Fault(s) detected for KA01AB1234: 1 issues logged.
+[02-07-2026 16:18:22] SYSTEM OK: Cycle completed for KA01AB1234. No faults detected.
+[02-07-2026 16:18:23] FAULT: Fault(s) detected for KA01AB1234: 2 issues logged.
+[02-07-2026 16:18:24] SYSTEM OK: Cycle completed for KA01AB1234. No faults detected.
+[02-07-2026 16:18:25] FAULT: Fault(s) detected for KA01AB1234: 1 issues logged.
+[02-07-2026 16:18:26] FAULT: Fault(s) detected for KA01AB1234: 1 issues logged.
+[02-07-2026 16:18:27] FAULT: Fault(s) detected for KA01AB1234: 1 issues logged.
+[02-07-2026 16:18:28] FAULT: Fault(s) detected for KA01AB1234: 1 issues logged.
+[02-07-2026 16:18:29] FAULT: Fault(s) detected for KA01AB1234: 1 issues logged.
+[02-07-2026 16:18:30] FAULT: Fault(s) detected for KA01AB1234: 1 issues logged.
+[02-07-2026 16:18:31] FAULT: Fault(s) detected for KA01AB1234: 1 issues logged.
+[02-07-2026 16:18:32] FAULT: Fault(s) detected for KA01AB1234: 3 issues logged.
+[02-07-2026 16:18:33] FAULT: Fault(s) detected for KA01AB1234: 1 issues logged.
+[02-07-2026 16:18:34] FAULT: Fault(s) detected for KA01AB1234: 1 issues logged.
+[02-07-2026 16:18:35] FAULT: Fault(s) detected for KA01AB1234: 2 issues logged.
+[02-07-2026 16:18:36] FAULT: Fault(s) detected for KA01AB1234: 1 issues logged.
+[02-07-2026 16:18:37] FAULT: Fault(s) detected for KA01AB1234: 1 issues logged.
+[02-07-2026 16:18:38] FAULT: Fault(s) detected for KA01AB1234: 2 issues logged.
+[02-07-2026 16:18:39] FAULT: Fault(s) detected for KA01AB1234: 2 issues logged.
+[02-07-2026 16:18:40] FAULT: Fault(s) detected for KA01AB1234: 1 issues logged.
+[02-07-2026 16:18:41] ACTION: Paused monitoring cycle.
+[02-07-2026 16:19:26] FAULT: Fault(s) detected for KA05CD5678: 2 issues logged.
+[02-07-2026 16:19:26] ACTION: Switched to next car.
+[02-07-2026 16:19:28] FAULT: Fault(s) detected for KA09EF9101: 2 issues logged.
+[02-07-2026 16:19:28] ACTION: Switched to next car.
+[02-07-2026 16:19:29] SYSTEM OK: Cycle completed for KA03GH4567. No faults detected.
+[02-07-2026 16:19:29] ACTION: Switched to next car.
+[02-07-2026 16:19:30] FAULT: Fault(s) detected for KA02JK2468: 1 issues logged.
+[02-07-2026 16:19:30] ACTION: Switched to next car.
